@@ -4,13 +4,15 @@
   "description": "",
   "main": "js/index.js",
   "scripts": {
-    "start": "live-server",
+    "start": "live-server public",
+    "build": "panini --root=html/pages --layouts=html/layouts --data=html/data --output=public \"html/pages/**/*.hbs\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "dheeraj.vs",
   "license": "MIT",
   "devDependencies": {
-    "live-server": "^1.2.0"
+    "live-server": "^1.2.0",
+    "panini": "^1.4.0"
   },
   "dependencies": {
     "material-components-web": "^0.10.0"
