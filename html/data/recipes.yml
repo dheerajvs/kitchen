@@ -1,4 +1,5 @@
 - name: Tomato Rice
+  urlName: tomato-rice
   description: Tomato Rice is an easy to make yummy spicy rice dish from South India
   author: Sowmya B A
   datePublished: 2016-10-07
@@ -12,6 +13,7 @@
     - Meanwhile, Take a pan/wok, add oil and heat it.
 
 - name: Vegetable Poha
+  urlName: vegetable-poha
   description: Vegetable poha is easy to make, made with flattened rice and loaded with lots Vegetables
   author: Sowmya B A
   datePublished: 2016-10-07
