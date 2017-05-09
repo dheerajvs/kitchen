@@ -4,15 +4,17 @@
   "description": "",
   "main": "js/index.js",
   "scripts": {
-    "start": "live-server public",
-    "build": "panini --root=html/pages --layouts=html/layouts --data=html/data --output=public \"html/pages/**/*.hbs\"",
+    "start": "live-server",
+    "build": "panini --root=html/pages --layouts=html/layouts --data=html/data --output=public \"html/pages/**/*.html\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "dheeraj.vs",
   "license": "MIT",
   "devDependencies": {
+    "handlebars": "^4.0.8",
     "live-server": "^1.2.0",
-    "panini": "^1.4.0"
+    "panini": "^1.4.0",
+    "yamljs": "^0.2.10"
   },
   "dependencies": {
     "material-components-web": "^0.10.0"

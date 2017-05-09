@@ -1,0 +1,66 @@
+  <div class="header-container">
+    <header class="wrapper clearfix">
+      <h1 class="title">Sowmya's Recipes</h1>
+      <nav>
+        <ul>
+        </ul>
+      </nav>
+    </header>
+  </div>
+
+  <div class="main-container">
+    <div class="main wrapper clearfix">
+
+      <article>
+        <div class="mdc-card">
+          <section class="mdc-card__primary">
+            <div class="demo-card__avatar"></div>
+            <h1 class="mdc-card__title">{{author}}</h1>
+            <h2 class="mdc-card__subtitle">{{datePublished}}</h2>
+          </section>
+          <section class="mdc-card__media" id="example"></section>
+          <section class="mdc-card__primary">
+            <h1 class="mdc-card__title mdc-card__title--large">{{name}}</h1>
+          </section>
+          <section class="mdc-card__supporting-text">
+            {{description}}
+          </section>
+
+          <section class="mdc-card__primary">
+            <h1 class="mdc-card__title mdc-card__title--large">Ingredients</h1>
+            <h2 class="mdc-card__subtitle">Yield: {{recipeYield}}</h2>
+          </section>
+          <section class="mdc-card__supporting-text">
+            <ul>
+              {{#each recipeIngredient}}
+              <li>{{this}}</li>
+              {{/each}}
+            </ul>
+          </section>
+          <section class="mdc-card__primary">
+            <h1 class="mdc-card__title mdc-card__title--large">Procedure</h1>
+            <h2 class="mdc-card__subtitle">Total Time: {{totalTime}}</h2>
+          </section>
+          <section class="mdc-card__supporting-text">
+            <ol>
+              {{#each recipeInstructions}}
+              <li>{{this}}</li>
+              {{/each}}
+            </ol>
+          </section>
+          <section class="mdc-card__actions">
+            <button class="mdc-button mdc-button--compact mdc-card__action">Like</button>
+            <button class="mdc-button mdc-button--compact mdc-card__action">Share</button>
+          </section>
+        </div>
+      </article>
+
+      <aside>
+        <h3></h3>
+        <p></p>
+      </aside>
+
+    </div>
+    <!-- #main -->
+  </div>
+  <!-- #main-container -->
