@@ -11,21 +11,23 @@
 <div class="main-container">
   <div class="main wrapper clearfix">
 
-    {{#each this}}
-    <article>
-      <a class="no-text-decor" href="recipe/{{urlName}}.html">
-        <div class="mdc-card">
-          <section class="mdc-card__media" id="example"></section>
-          <section class="mdc-card__primary">
-            <h1 class="mdc-card__title mdc-card__title--large">{{name}}</h1>
-          </section>
-          <section class="mdc-card__supporting-text">
-            {{description}}
-          </section>
-        </div>
-      </a>
-    </article>
-    {{/each}}
+    <div class="flex-container">
+      {{#each this}}
+      <article class="recipe-article flex-item">
+        <a class="no-text-decor" href="recipe/{{urlName}}.html">
+          <div class="mdc-card">
+            <section class="mdc-card__media" id="example"></section>
+            <section class="mdc-card__primary">
+              <h1 class="mdc-card__title mdc-card__title--large">{{name}}</h1>
+            </section>
+            <section class="mdc-card__supporting-text">
+              {{description}}
+            </section>
+          </div>
+        </a>
+      </article>
+      {{/each}}
+    </div>
 
     <aside>
       <h3></h3>
