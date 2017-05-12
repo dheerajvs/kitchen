@@ -12,32 +12,47 @@
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
   <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="../node_modules/material-components-web/dist/material-components-web.css">
+  <!-- <link rel="stylesheet" href="../node_modules/material-components-web/dist/material-components-web.css"> -->
+  <link rel="stylesheet" href="../material-components-web/build/material-components-web.css">
   <link rel="stylesheet" href="css/main.css">
 </head>
 
 <body>
-  <header class="mdc-toolbar mdc-toolbar--fixed mdc-toolbar--waterfall">
+  <header class="mdc-toolbar mdc-toolbar--fixed mdc-toolbar--fixed-lastrow-only mdc-toolbar--waterfall">
     <div class="mdc-toolbar__row">
-      <section class="mdc-toolbar__section mdc-toolbar__section--align-start">
+      <section class="mdc-toolbar__section">
         <span class="mdc-toolbar__title">Sowmya's Recipes</span>
       </section>
-      <!-- <section class="mdc-toolbar__section mdc-toolbar__section--align-end" role="toolbar">
-        <a href="#" class="material-icons" aria-label="Bookmark this page" alt="Bookmark this page">bookmark</a>
-      </section> -->
+    </div>
+    <div class="mdc-toolbar__row">
+      <section class="mdc-toolbar__section" role="toolbar">
+        <nav class="mdc-tab-bar">
+          <a class="mdc-tab mdc-tab--active" href="#one">Home</a>
+          <a class="mdc-tab" href="#two">Merchandise</a>
+          <a class="mdc-tab" href="#three">About Us</a>
+          <span class="mdc-tab-bar__indicator"></span>
+        </nav>
+      </section>
     </div>
   </header>
 
-  {{> body}}
+  <main class="main-container mdc-toolbar-fixed-adjust">
+    {{> body}}
+  </main>
 
-  <div class="footer-container">
-    <footer class="wrapper">
-      <p>Copyright &copy; 2017, Sowmya B A</p>
-    </footer>
-  </div>
-  <script src="../node_modules/material-components-web/dist/material-components-web.js"></script>
+  <footer class="mdc-toolbar footer-container">
+    <div class="mdc-toolbar__row">
+      <section class="mdc-toolbar__section">
+        <span class="mdc-toolbar__title">Copyright &copy; 2017, Sowmya B A</span>
+      </section>
+    </div>
+  </footer>
+  <!-- <script src="../node_modules/material-components-web/dist/material-components-web.js"></script> -->
+  <script src="../material-components-web/build/material-components-web.js"></script>
   <script>
-    mdc.autoInit()
+    mdc.autoInit();
+    var toolbar = mdc.toolbar.MDCToolbar.attachTo(document.querySelector('.mdc-toolbar'));
+    toolbar.fixedAdjustElement = document.querySelector('.mdc-toolbar-fixed-adjust');
   </script>
   <script src="js/index.js"></script>
 </body>
