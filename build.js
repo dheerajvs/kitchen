@@ -2,10 +2,12 @@ const fs = require('fs');
 const Yaml = require('yamljs');
 const Handlebars = require('handlebars');
 
+const duration = require('./html/helpers/duration');
 const localeDate = require('./html/helpers/localeDate');
 const recipeData = Yaml.load('html/data/recipes.yml');
 // fs.mkdirSync('public/recipe');
 
+Handlebars.registerHelper('duration', duration);
 Handlebars.registerHelper('localeDate', localeDate);
 
 Handlebars.registerPartial('body', fs.readFileSync('html/pages/index.html', 'utf8'));

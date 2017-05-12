@@ -6,15 +6,16 @@
   "main": "js/index.js",
   "scripts": {
     "start": "live-server",
-    "watch": "watch-run -d 100 -p \"html/**/*\" \"node build.js\"",
+    "build": "watch-run -d 100 -p \"html/**/*\" \"node build.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "dheeraj.vs",
   "license": "MIT",
   "devDependencies": {
+    "cpx": "^1.5.0",
     "handlebars": "^4.0.8",
     "live-server": "^1.2.0",
-    "panini": "^1.4.0",
+    "moment": "^2.18.1",
     "watch-run": "^1.2.5",
     "yamljs": "^0.2.10"
   },

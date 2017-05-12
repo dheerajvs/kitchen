@@ -1,20 +1,10 @@
-  <div class="header-container">
-    <header class="wrapper clearfix">
-      <h1 class="title">Sowmya's Recipes</h1>
-      <nav>
-        <ul>
-        </ul>
-      </nav>
-    </header>
-  </div>
-
   <div class="main-container">
     <div class="main wrapper clearfix">
 
       <article>
         <div class="mdc-card">
-          <section class="mdc-card__primary">
-            <div class="demo-card__avatar"></div>
+          <section class="mdc-card__primary card-with-avatar">
+            <div class="card-avatar"></div>
             <h1 class="mdc-card__title">{{author}}</h1>
             <h2 class="mdc-card__subtitle">{{localeDate datePublished}}</h2>
           </section>
@@ -39,7 +29,7 @@
           </section>
           <section class="mdc-card__primary">
             <h1 class="mdc-card__title mdc-card__title--large">Procedure</h1>
-            <h2 class="mdc-card__subtitle">Total Time: {{totalTime}}</h2>
+            <h2 class="mdc-card__subtitle">Time: {{duration totalTime}}</h2>
           </section>
           <section class="mdc-card__supporting-text">
             <ol>

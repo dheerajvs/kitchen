@@ -110,7 +110,24 @@ textarea {
 }
 
 .no-text-decor {
-    text-decoration: none;
+  text-decoration: none;
+}
+
+.card-with-avatar .mdc-card__primary {
+  position: relative;
+}
+
+.card-with-avatar .card-avatar {
+  position: absolute;
+  background: #bdbdbd;
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 50%;
+}
+
+.card-with-avatar .mdc-card__title,
+.card-with-avatar .mdc-card__subtitle {
+  margin-left: 56px;
 }
 
 .mdc-card__media {
