@@ -1,12 +1,12 @@
 <div class="main-container">
   <div class="main wrapper clearfix">
 
-    <div class="flex-container">
+    <div class="mdc-layout-grid">
       {{#each this}}
-      <article class="recipe-article flex-item">
+      <article class="mdc-layout-grid__cell mdc-layout-grid__cell--span-3-desktop">
         <a class="no-text-decor" href="recipe/{{urlName}}.html">
           <div class="mdc-card">
-            <section class="mdc-card__media" id="example"></section>
+            <section class="mdc-card__media"></section>
             <section class="mdc-card__primary">
               <h1 class="mdc-card__title mdc-card__title--large">{{name}}</h1>
             </section>
