@@ -1,53 +1,48 @@
-<div class="main wrapper clearfix">
+<main class="recipe-main">
+  <article class="mdc-card">
+    <section class="mdc-card__primary card-with-avatar">
+      <div class="card-avatar"></div>
+      <h1 class="mdc-card__title">{{author}}</h1>
+      <h2 class="mdc-card__subtitle">{{localeDate datePublished}}</h2>
+    </section>
+    <section class="mdc-card__media" id="example"></section>
+    <section class="mdc-card__primary">
+      <h1 class="mdc-card__title mdc-card__title--large">{{name}}</h1>
+    </section>
+    <section class="mdc-card__supporting-text">
+      {{description}}
+    </section>
 
-  <article>
-    <div class="mdc-card">
-      <section class="mdc-card__primary card-with-avatar">
-        <div class="card-avatar"></div>
-        <h1 class="mdc-card__title">{{author}}</h1>
-        <h2 class="mdc-card__subtitle">{{localeDate datePublished}}</h2>
-      </section>
-      <section class="mdc-card__media" id="example"></section>
-      <section class="mdc-card__primary">
-        <h1 class="mdc-card__title mdc-card__title--large">{{name}}</h1>
-      </section>
-      <section class="mdc-card__supporting-text">
-        {{description}}
-      </section>
-
-      <section class="mdc-card__primary">
-        <h1 class="mdc-card__title mdc-card__title--large">Ingredients</h1>
-        <h2 class="mdc-card__subtitle">Yield: {{recipeYield}}</h2>
-      </section>
-      <section class="mdc-card__supporting-text">
-        <ul>
-          {{#each recipeIngredient}}
-          <li>{{this}}</li>
-          {{/each}}
-        </ul>
-      </section>
-      <section class="mdc-card__primary">
-        <h1 class="mdc-card__title mdc-card__title--large">Procedure</h1>
-        <h2 class="mdc-card__subtitle">Time: {{duration totalTime}}</h2>
-      </section>
-      <section class="mdc-card__supporting-text">
-        <ol>
-          {{#each recipeInstructions}}
-          <li>{{this}}</li>
-          {{/each}}
-        </ol>
-      </section>
-      <section class="mdc-card__actions">
-        <button class="mdc-button mdc-button--compact mdc-card__action">Like</button>
-        <button class="mdc-button mdc-button--compact mdc-card__action">Share</button>
-      </section>
-    </div>
+    <section class="mdc-card__primary">
+      <h1 class="mdc-card__title mdc-card__title--large">Ingredients</h1>
+      <h2 class="mdc-card__subtitle">Yield: {{recipeYield}}</h2>
+    </section>
+    <section class="mdc-card__supporting-text">
+      <ul>
+        {{#each recipeIngredient}}
+        <li>{{this}}</li>
+        {{/each}}
+      </ul>
+    </section>
+    <section class="mdc-card__primary">
+      <h1 class="mdc-card__title mdc-card__title--large">Procedure</h1>
+      <h2 class="mdc-card__subtitle">Time: {{duration totalTime}}</h2>
+    </section>
+    <section class="mdc-card__supporting-text">
+      <ol>
+        {{#each recipeInstructions}}
+        <li>{{this}}</li>
+        {{/each}}
+      </ol>
+    </section>
+    <section class="mdc-card__actions">
+      <button class="mdc-button mdc-button--compact mdc-card__action">Like</button>
+      <button class="mdc-button mdc-button--compact mdc-card__action">Share</button>
+    </section>
   </article>
+</main>
 
-  <aside>
-    <h3></h3>
-    <p></p>
-  </aside>
-
-</div>
-<!-- #main -->
+<aside>
+  <h3></h3>
+  <p></p>
+</aside>

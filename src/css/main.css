@@ -117,7 +117,6 @@ textarea {
 }
 
 .mdc-card__media {
-   background-image: url("../img/16-9.jpg");
    background-size: cover;
    background-repeat: no-repeat;
    height: 120px;
@@ -125,6 +124,15 @@ textarea {
 
 .footer-container .mdc-toolbar__title {
   font-size: 0.8rem;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+}
+
+.recipe-main {
+  max-width: 640px;
 }
 
 /* ==========================================================================
