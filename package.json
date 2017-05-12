@@ -6,7 +6,8 @@
   "main": "js/index.js",
   "scripts": {
     "start": "live-server",
-    "build": "watch-run -d 100 -p \"html/**/*\" \"node build.js\"",
+    "build": "watch-run -d 100 -i -p \"html/**/*\" \"node build.js\"",
+    "copy": "cpx \"src/**/*.{css,js,png,jpg}\" public --watch --verbose",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "dheeraj.vs",
