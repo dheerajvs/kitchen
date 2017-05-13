@@ -5,14 +5,13 @@
   "private": true,
   "main": "js/index.js",
   "scripts": {
-    "preinstall": "yarn run mdc",
-    "postinstall": "echo Post Install",
     "start": "live-server",
-    "build": "cpx \"src/**/*\" public && node build.js",
+    "build": "yarn run copy-src && yarn run copy-mdc-css && yarn run copy-mdc-js && node build.js",
     "build-watch": "watch-run -d 100 -i -p \"html/**/*\" \"node build.js\"",
-    "copy": "cpx \"src/**/*\" public --watch --verbose",
-    "mdc": "(cd mdc && git pull && yarn)",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "copy-src": "cpx \"src/**/*\" public",
+    "copy-mdc-css": "cpx \"node_modules/material-components-web/dist/*.css\" public/css",
+    "copy-mdc-js": "cpx \"node_modules/material-components-web/dist/*.js\" public/js",
+    "copy-watch": "cpx \"src/**/*\" public --watch --verbose"
   },
   "author": "dheeraj.vs",
   "license": "MIT",
@@ -24,5 +23,7 @@
     "watch-run": "^1.2.5",
     "yamljs": "^0.2.10"
   },
-  "dependencies": {}
+  "dependencies": {
+    "material-components-web": "^0.10.0"
+  }
 }
