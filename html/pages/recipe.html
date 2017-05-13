@@ -1,11 +1,30 @@
 <main class="recipe-main">
   <article class="mdc-card">
-    <section class="mdc-card__primary card-with-avatar">
-      <div class="card-avatar"></div>
-      <h1 class="mdc-card__title">{{author}}</h1>
-      <h2 class="mdc-card__subtitle">{{localeDate datePublished}}</h2>
+    <div class="mdc-card__horizontal-block">
+      <section class="mdc-card__primary card-with-avatar">
+        <div class="card-avatar"></div>
+        <h1 class="mdc-card__title">{{author}}</h1>
+        <h2 class="mdc-card__subtitle">{{localeDate datePublished}}</h2>
+      </section>
+      <section class="mdc-card__actions">
+        <!-- TODO: Replace with icon buttons when we have those. -->
+        <!-- <button class="mdc-button mdc-button--compact mdc-card__action">A1</button> -->
+        <i class="mdc-icon-toggle mdc-icon-toggle--primary material-icons"
+           role="button"
+           aria-label="Add to favorites"
+           aria-pressed="false"
+           tabindex="0"
+           data-toggle-on='{"content": "favorite", "label": "Remove From Favorites"}'
+           data-toggle-off='{"content": "favorite_border", "label": "Add to Favorites"}'>
+          favorite_border
+        </i>
+      </section>
+    </div>
+    <section
+      class="mdc-card__media"
+      style="background-color: gray; background-image: url('./img/{{image}}');"
+    >
     </section>
-    <section class="mdc-card__media" id="example"></section>
     <section class="mdc-card__primary">
       <h1 class="mdc-card__title mdc-card__title--large">{{name}}</h1>
     </section>
