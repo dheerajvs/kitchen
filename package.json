@@ -5,9 +5,13 @@
   "private": true,
   "main": "js/index.js",
   "scripts": {
+    "preinstall": "yarn run mdc",
+    "postinstall": "echo Post Install",
     "start": "live-server",
-    "build": "watch-run -d 100 -i -p \"html/**/*\" \"node build.js\"",
-    "copy": "cpx \"src/**/*.{css,js,png,jpg}\" public --watch --verbose",
+    "build": "cpx \"src/**/*\" public && node build.js",
+    "build-watch": "watch-run -d 100 -i -p \"html/**/*\" \"node build.js\"",
+    "copy": "cpx \"src/**/*\" public --watch --verbose",
+    "mdc": "(cd mdc && git pull && yarn)",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "dheeraj.vs",
@@ -20,7 +24,5 @@
     "watch-run": "^1.2.5",
     "yamljs": "^0.2.10"
   },
-  "dependencies": {
-    "material-components-web": "^0.10.0"
-  }
+  "dependencies": {}
 }
