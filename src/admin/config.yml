@@ -3,7 +3,7 @@ backend:
   repo: dheerajvs/kitchen # Path to your Github repository
   branch: master # Branch to update (master by default)
 
-media_folder: "src/img" # Folder where user uploaded files should go
+media_folder: "public/img" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
   - name: "recipe" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -19,5 +19,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Time (hours)", name: "totalTimeHours", widget: "number"}
       - {label: "Time (minutes)", name: "totalTimeMinutes", widget: "number"}
       - {label: "Yield", name: "recipeYield", widget: "string"}
-      - {label: "Ingredients", name: "recipeIngredient", widget: "list"}
+      - {label: "Ingredients", name: "recipeIngredient", widget: "markdown"}
       - {label: "Procedure", name: "recipeInstructions", widget: "markdown"}

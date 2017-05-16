@@ -1,5 +1,3 @@
 const moment = require('moment');
 
-module.exports = (dateString) => {
-  return moment(dateString).format('ll');
-};
+module.exports = dateString => moment(dateString).format('ll');

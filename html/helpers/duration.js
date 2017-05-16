@@ -1,5 +1,5 @@
 const moment = require('moment');
 
-module.exports = (duration) => {
-  return moment.duration(duration).humanize();
-};
+module.exports = (totalTimeHours, totalTimeMinutes) => (
+  moment.duration(`PT${totalTimeHours}H${totalTimeMinutes}M`).humanize()
+);

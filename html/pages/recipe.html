@@ -3,8 +3,8 @@
     <div class="mdc-card__horizontal-block">
       <section class="mdc-card__primary card-with-avatar">
         <div class="card-avatar"></div>
-        <h1 class="mdc-card__title">{{author}}</h1>
-        <h2 class="mdc-card__subtitle">{{localeDate datePublished}}</h2>
+        <h1 class="mdc-card__title">{{recipe.author}}</h1>
+        <h2 class="mdc-card__subtitle">{{localeDate recipe.datePublished}}</h2>
       </section>
       <section class="mdc-card__actions">
         <!-- TODO: Replace with icon buttons when we have those. -->
@@ -22,37 +22,29 @@
     </div>
     <section
       class="mdc-card__media"
-      style="background-color: gray; background-image: url('./img/{{image}}');"
+      style="background-color: gray; background-image: url('{{baseUrl}}{{replace recipe.image "/public/" ""}}');"
     >
     </section>
     <section class="mdc-card__primary">
-      <h1 class="mdc-card__title mdc-card__title--large">{{name}}</h1>
+      <h1 class="mdc-card__title mdc-card__title--large">{{recipe.name}}</h1>
     </section>
     <section class="mdc-card__supporting-text">
-      {{description}}
+      {{recipe.description}}
     </section>
 
     <section class="mdc-card__primary">
       <h1 class="mdc-card__title mdc-card__title--large">Ingredients</h1>
-      <h2 class="mdc-card__subtitle">Yield: {{recipeYield}}</h2>
+      <h2 class="mdc-card__subtitle">Yield: {{recipe.recipeYield}}</h2>
     </section>
     <section class="mdc-card__supporting-text">
-      <ul>
-        {{#each recipeIngredient}}
-        <li>{{this}}</li>
-        {{/each}}
-      </ul>
+      {{recipe.recipeIngredient}}
     </section>
     <section class="mdc-card__primary">
       <h1 class="mdc-card__title mdc-card__title--large">Procedure</h1>
-      <h2 class="mdc-card__subtitle">Time: {{duration totalTime}}</h2>
+      <h2 class="mdc-card__subtitle">Time: {{duration recipe.totalTimeHours recipe.totalTimeMinutes}}</h2>
     </section>
     <section class="mdc-card__supporting-text">
-      <ol>
-        {{#each recipeInstructions}}
-        <li>{{this}}</li>
-        {{/each}}
-      </ol>
+      {{{markdown recipe.recipeInstructions}}}
     </section>
     <section class="mdc-card__actions">
       <button class="mdc-button mdc-button--compact mdc-card__action">Like</button>

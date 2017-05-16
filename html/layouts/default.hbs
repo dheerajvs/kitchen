@@ -8,20 +8,20 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="apple-touch-icon" href="{{baseUrl}}apple-touch-icon.png">
 
-  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="{{baseUrl}}css/normalize.css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <!-- <link rel="stylesheet" href="../node_modules/material-components-web/dist/material-components-web.css"> -->
-  <link rel="stylesheet" href="css/material-components-web.css">
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="{{baseUrl}}css/material-components-web.css">
+  <link rel="stylesheet" href="{{baseUrl}}css/main.css">
 </head>
 
 <body>
   <header class="mdc-toolbar mdc-toolbar--fixed mdc-toolbar--fixed-lastrow-only mdc-toolbar--waterfall">
     <div class="mdc-toolbar__row">
       <section class="mdc-toolbar__section">
-        <span class="mdc-toolbar__title">Sowmya's Recipes</span>
+        <span class="mdc-toolbar__title">Sowmya's Kitchen</span>
       </section>
     </div>
     <div class="mdc-toolbar__row">
@@ -48,13 +48,13 @@
     </div>
   </footer>
   <!-- <script src="../node_modules/material-components-web/dist/material-components-web.js"></script> -->
-  <script src="js/material-components-web.js"></script>
+  <script src="{{baseUrl}}js/material-components-web.js"></script>
   <script>
     mdc.autoInit();
     var toolbar = mdc.toolbar.MDCToolbar.attachTo(document.querySelector('.mdc-toolbar'));
     toolbar.fixedAdjustElement = document.querySelector('.mdc-toolbar-fixed-adjust');
   </script>
-  <script src="js/index.js"></script>
+  <script src="{{baseUrl}}js/index.js"></script>
 </body>
 
 </html>

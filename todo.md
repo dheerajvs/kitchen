@@ -1,3 +1,4 @@
+[] Use replace custom helpers with handlebars-helpers
 [] Schema.org
 [] Parallax image in recipe page
 [] dominant color (use colour-extractor and async)
