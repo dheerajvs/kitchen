@@ -3,10 +3,7 @@ const Handlebars = require('handlebars');
 const glob = require('glob');
 const grayMatter = require('gray-matter');
 
-const helpers = require('handlebars-helpers')({handlebars: Handlebars});
-const markdown = require('helper-markdown');
 const duration = require('./html/helpers/duration');
-const localeDate = require('./html/helpers/localeDate');
 const urlName = require('./html/helpers/urlName');
 
 // Read Markdown data files
@@ -19,10 +16,8 @@ const recipes = glob.sync('html/data/_recipes/*.md').reduce(
 );
 
 // Register handlebars helpers
-// Handlebars.registerHelper('helpers', helpers);
-Handlebars.registerHelper('markdown', markdown);
+require('handlebars-helpers')({handlebars: Handlebars});
 Handlebars.registerHelper('duration', duration);
-Handlebars.registerHelper('localeDate', localeDate);
 Handlebars.registerHelper('urlName', urlName);
 
 // Generate /index.html

@@ -4,7 +4,7 @@
       <section class="mdc-card__primary card-with-avatar">
         <div class="card-avatar"></div>
         <h1 class="mdc-card__title">{{recipe.author}}</h1>
-        <h2 class="mdc-card__subtitle">{{localeDate recipe.datePublished}}</h2>
+        <h2 class="mdc-card__subtitle">{{moment recipe.datePublished "ll"}}</h2>
       </section>
       <section class="mdc-card__actions">
         <!-- TODO: Replace with icon buttons when we have those. -->
