@@ -7,7 +7,7 @@ image: /public/img/temp.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '30'
 recipeYield: 2 servings
-recipeIngredient:
+recipeIngredient: |-
   - Chillies
   - Onions
   - Salt
