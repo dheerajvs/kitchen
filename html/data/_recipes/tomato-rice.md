@@ -1,5 +1,5 @@
 ---
-name: Tomato Rice
+title: Tomato Rice
 author: Sowmya B A
 datePublished: 2016-10-07
 description: Tomato Rice is an easy to make yummy spicy rice dish from South India.
@@ -24,8 +24,7 @@ recipeIngredient: |-
   - Tomatoes - 3 medium to large sized; finely chopped. (about 200gm)
   - Turmeric powder - ¼ tsp
   - Salt - As per taste
-  - >-
-    Ginger-Garlic Paste - 1 ½ tsp; or ½ inch ginger, + 5-6 medium sized garlic
+  - Ginger-Garlic Paste - 1 ½ tsp; or ½ inch ginger, + 5-6 medium sized garlic
     crushed to a paste in mortar pestle. I personally prefer fresh paste.
   - Fresh Mint Leaves / Pudina - 1 ½ tbsp chopped
   - Red Chilli Powder - ½ tsp
