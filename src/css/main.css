@@ -122,6 +122,11 @@ textarea {
    height: 120px;
  }
 
+.footer-container.mdc-toolbar {
+  --mdc-theme-primary: #fff;
+  --mdc-theme-text-primary-on-primary: var(--mdc-theme-text-primary-on-background);
+}
+
 .footer-container .mdc-toolbar__title {
   font-size: 0.8rem;
 }

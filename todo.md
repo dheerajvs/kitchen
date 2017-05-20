@@ -16,3 +16,4 @@
 [] About tab
 [] Definitions for Ingredients
 [] Distribution build
+  [] mdc: use individual components
