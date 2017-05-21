@@ -1,6 +1,5 @@
 node_modules/
 public/*
-!public/img/
 npm-debug.log*
 material-components-web/
 yarn-error.log
