@@ -5,7 +5,7 @@
   "private": true,
   "main": "js/index.js",
   "scripts": {
-    "start": "live-server",
+    "start": "live-server --mount=/:./public --wait=100",
     "build": "yarn run copy-src && yarn run copy-mdc-css && yarn run copy-mdc-js && node build.js",
     "build-watch": "watch-run -d 100 -i -p \"html/**/*\" \"node build.js\"",
     "copy-src": "cpx \"src/**/*\" public",

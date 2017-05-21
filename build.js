@@ -7,13 +7,15 @@ const duration = require('./html/helpers/duration');
 const urlName = require('./html/helpers/urlName');
 
 // Read Markdown data files
-const recipes = glob.sync('html/data/_recipes/*.md').reduce(
-  (acc, fileName) => {
-    acc.push(grayMatter.read(fileName).data);
-    return acc;
-  },
-  []
-);
+const recipes = glob.sync('html/data/_recipes/*.md')
+  .reduce(
+    (acc, fileName) => {
+      acc.push(grayMatter.read(fileName).data);
+      return acc;
+    },
+    []
+  )
+  .sort((a, b) => a.datePublished < b.datePublished);
 
 // Register handlebars helpers
 require('handlebars-helpers')({handlebars: Handlebars});
