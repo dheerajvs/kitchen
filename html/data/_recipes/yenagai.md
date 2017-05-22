@@ -1,7 +1,7 @@
 ---
 title: Yenagai or Stuffed Eggplant
 author: Sowmya B A
-datePublished: 2016-10-07
+datePublished: 2016-10-07T00:00:00.000Z
 description: Yennegai is a mouth watering North Karnataka side dish for rotis and rice.
 image: yenagai.jpg
 totalTimeHours: '0'
@@ -27,15 +27,36 @@ recipeIngredient: |-
   - Cinnamon stick - 1 inch (optional)
   - Powdered Jaggery - 1/2 tsp (Optional)
   - Onion - 1/4 cup, chopped coarsely
-recipeInstructions: |-
-  - Dry roast the coriander seeds, cumin, red chilies, cloves, cinnamon, sesame and peanuts until the peanuts start popping a little; Make sure not to burn any of the spices.
-  - Grind the roasted spices with coconut, onion, tamarind, jaggery and salt; Add just enough water to make it a coarse paste; Keep aside.
-  - Make 2/4 slits on the brinjal/eggplants, lengthwise - Such that the slits form a "+" sign on each brinjal / eggplant; Be careful while making the slits, and make sure the eggplant is in 1 piece and not quartered while slitting them; Retain the stalk of the eggplant.
-  - Stuff the brinjal / eggplants with the ground masala and keep aside; Save the remaining masala for making the gravy.
+recipeInstructions: >-
+  1. Dry roast the coriander seeds, cumin, red chilies, cloves, cinnamon, sesame
+  and peanuts until the peanuts start popping a little; Make sure not to burn
+  any of the spices.
+
+  2. Grind the roasted spices with coconut, onion, tamarind, jaggery and salt;
+  Add just enough water to make it a coarse paste; Keep aside.
+
+  - Make 2/4 slits on the brinjal/eggplants, lengthwise - Such that the slits
+  form a "+" sign on each brinjal / eggplant; Be careful while making the slits,
+  and make sure the eggplant is in 1 piece and not quartered while slitting
+  them; Retain the stalk of the eggplant.
+
+  - Stuff the brinjal / eggplants with the ground masala and keep aside; Save
+  the remaining masala for making the gravy.
+
   - Heat oil in a pan; Temper with mustard seeds, aesofotida and curry leaves.
+
   - Add finely chopped onions and saute for a minute.
-  - Slowly drop the stuffed eggplants one by one into the pan; Cook covered on medium heat for 4-5 minutes; Flip the eggplants once in a while, so that they are cooked on all sides.
-  - Add some water to the saved masala paste and pour into the pan over the eggplants; Adjust ingredients according to taste'
-  - Saute regularly and continue to cook covered, until the eggplants are well cooked and soft and the gravy reaches the desired consistency.
+
+  - Slowly drop the stuffed eggplants one by one into the pan; Cook covered on
+  medium heat for 4-5 minutes; Flip the eggplants once in a while, so that they
+  are cooked on all sides.
+
+  - Add some water to the saved masala paste and pour into the pan over the
+  eggplants; Adjust ingredients according to taste'
+
+  - Saute regularly and continue to cook covered, until the eggplants are well
+  cooked and soft and the gravy reaches the desired consistency.
+
   - Remove from the stove and serve hot with rice, rotis, dosas etc.
 ---
+
