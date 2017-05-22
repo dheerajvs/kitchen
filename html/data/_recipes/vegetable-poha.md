@@ -63,26 +63,28 @@ recipeInstructions: >-
 
   7. Add curry leaves into it.
 
-  - Add chopped onions and saute till it turns pale color.
+  8. Add chopped onions and saute till it turns pale color.
 
-  - Add salt as per taste required.
+  9. Add salt as per taste required.
 
-  - Add turmeric powder and mix well.
+  10. Add turmeric powder and mix well.
 
-  - Add the semi-cooked vegetables without water in it and roast it for 30
-    seconds till all the moisture is drained out.
-  - Add grated ginger.
+  11. Add the semi-cooked vegetables without water in it and roast it for
+  30seconds till all the moisture is drained out.
 
-  - Add soaked beaten rice and mix well.
+  12. Add grated ginger.
 
-  - Finally add in the lemon juice and freshly chopped coriander leaves and mix
-  well for even distribution.
+  13. Add soaked beaten rice and mix well.
 
-  - If you choose to add grated Coconut you can add it now and mix well for even
-  distribution.
+  14. Finally add in the lemon juice and freshly chopped coriander leaves and
+  mix well for even distribution.
 
-  - Switch off the flame, after a few seconds (approximately 30 seconds).
+  15. If you choose to add grated Coconut you can add it now and mix well for
+  even distribution.
 
-  - Serve hot for breakfast or tea time snacks.
+  16. Switch off the flame, after a few seconds (approximately 30 seconds).
+
+  17. Serve hot for breakfast or tea time snacks.
 ---
+
 
