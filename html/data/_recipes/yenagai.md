@@ -8,25 +8,44 @@ totalTimeHours: '0'
 totalTimeMinutes: '45'
 recipeYield: 2 servings
 recipeIngredient: |-
-  - Round purple Brijal / Eggplant - 4-6 Small
-  - Oil - 1 tbsp
-  - Mustard seeds - 1 tsp
-  - Aesofitida - generous pinch
-  - Onion - 1/2 cup, chopped finely
-  - Curry leaves - 10-12
+  - Round purple Brinjal / Eggplant
+   - 4-6 Small
+  - Oil
+   - 1 tbsp
+  - Mustard seeds
+   - 1 tsp
+  - Asafetida
+   - Generous pinch
+  - Onion
+   - 1/2 cup, chopped finely
+  - Curry leaves
+   - 10-12
   - Salt as per taste
+
   ### For the Masala
-  - Grated fresh coconut - 1/2 to 3/4 cup
-  - Coriander seeds - 2-2.5 tsp
-  - Cumin seeds - 1 tsp
-  - Dry Red Chilies - 4-5, based on preferred hotness
-  - Sesame seeds (black / white) - 2 tsp
-  - Peanut - 1 tbsp
-  - Tamarind paste- 1 tsp
-  - Cloves - 3-4 (optional)
-  - Cinnamon stick - 1 inch (optional)
-  - Powdered Jaggery - 1/2 tsp (Optional)
-  - Onion - 1/4 cup, chopped coarsely
+
+  - Grated fresh coconut
+   - 1/2 to 3/4 cup
+  - Coriander seeds
+   - 2-2.5 tsp
+  - Cumin seeds
+   - 1 tsp
+  - Dry Red Chilies
+   - 4-5, based on preferred hotness
+  - Sesame seeds (black / white)
+   - 2 tsp
+  - Peanut
+   - 1 tbsp
+  - Tamarind paste
+   - 1 tsp
+  - Cloves
+   - 3-4 (optional)
+  - Cinnamon stick
+   - 1 inch (optional)
+  - Powdered Jaggery
+   - 1/2 tsp (Optional)
+  - Onion 
+   - 1/4 cup, chopped coarsely
 recipeInstructions: |2-
    1. Dry roast the coriander seeds, cumin, red chilies, cloves, cinnamon, sesame and peanuts until the peanuts start popping a little; Make sure not to burn any of the spices.
    2. Grind the roasted spices with coconut, onion, tamarind, jaggery and salt; Add just enough water to make it a coarse paste; Keep aside.
@@ -39,5 +58,6 @@ recipeInstructions: |2-
    9. Saute regularly and continue to cook covered, until the eggplants are well cooked and soft and the gravy reaches the desired consistency.
   10. Remove from the stove and serve hot with rice, rotis, dosas etc.
 ---
+
 
 
