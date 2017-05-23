@@ -2,7 +2,7 @@
 title: Vegetable Korma
 author: Sowmya B A
 datePublished: 2017-05-23T06:40:32.479Z
-description: 'Spicy, aromatic, coconut based South Indian vegetable curry.'
+description: 'Spicy, aromatic, coconut based South Indian vegetable gravy.'
 image: /img/VegetableKorma.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '45'
@@ -91,4 +91,5 @@ recipeInstructions: >
   coriander leaves. Serve the vegetable korma with chapatis, parathas, pooris or
   ghee rice.
 ---
+
 
