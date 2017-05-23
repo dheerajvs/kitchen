@@ -5,7 +5,7 @@ datePublished: 2016-10-07T00:00:00.000Z
 description: >-
   Vegetable poha is easy to make, made with flattened rice and loaded with lots
   Vegetables
-image: /img/vegetable-poha.jpg
+image: /img/Vegetable poha.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '30'
 recipeYield: 2 servings
@@ -86,5 +86,6 @@ recipeInstructions: >-
 
   17. Serve hot for breakfast or tea time snacks.
 ---
+
 
 
