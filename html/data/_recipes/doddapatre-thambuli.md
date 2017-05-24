@@ -2,7 +2,7 @@
 title: Doddapatre Thambuli
 author: Sowmya B A
 datePublished: 2017-05-24T11:48:05.018Z
-description: Yoghurt based Karnataka style side dish made using doddapatre leaf
+description: Curd / Yoghurt based Karnataka style side dish made using doddapatre leaf
 image: /img/Doddapatre-Thambuli.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '15'
@@ -36,7 +36,7 @@ recipeIngredient: |
    - 5-6 leaves
   - Dry Red chilli round
    - 2 chillies
-recipeInstructions: >+
+recipeInstructions: >
   1. Clean, wash and roughly chop doddapatre / ajwain leaves.
 
   2. In a pan add few drops of oil and roast jeera, pepper and green chilli. Fry
@@ -58,10 +58,6 @@ recipeInstructions: >+
   tempering on the thambli in the bowl.
 
   8. Serve doddapatre tambli in room temperature with hot steaming rice.
-
-
-
-
-
 ---
+
 
