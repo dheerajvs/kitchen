@@ -26,14 +26,11 @@ recipeInstructions: >-
   get the pulp to a blender.
 
   4. Add salt and sugar / jaggery to the raw mango pulp in the blender and blend
-  it to a smooth paste.
+  it to a smooth paste and strain it to an air tight container and refrigerate.
 
-  5. This aam ka panna smooth paste can be refrigerated for couple of months in
-  the refrigerator in a tight air tight container.
-
-  6. Aam ka panna be served cold by mixing 1 tbsp of preserved aam ka panna to a
-  glass of cold water along with a couple of ice cubes and mint leaves. Mint
-  leaves adds to the flavor.
-   
+  6. Aam ka panna can be served cold by mixing 1 tbsp of refrigerated aam ka
+  panna to a glass of cold water along with a couple of ice cubes and mint
+  leaves. Mint leaves adds additional flavor.
 ---
+
 
