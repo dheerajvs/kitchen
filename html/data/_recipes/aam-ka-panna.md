@@ -2,7 +2,7 @@
 title: Aam Ka Panna
 author: Sowmya B A
 datePublished: 2017-05-25T08:09:23.378Z
-description: Sweet and sour cool drink made with raw mango to beat the summer heat
+description: Sweet and sour ideal drink made with raw mango to beat the summer heat
 image: /img/AamKaPanna.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '20'
@@ -31,6 +31,15 @@ recipeInstructions: >-
   6. Aam ka panna can be served cold by mixing 1 tbsp of refrigerated aam ka
   panna to a glass of cold water along with a couple of ice cubes and mint
   leaves. Mint leaves adds additional flavor.
+
+
+  Notes:
+
+  1. Raw mango can be roated on fire or charcoal to soft pulp instead of
+  pressure cooking. This gives a different taste.
+
+  2. Aam ka panna can be diluted with soda instead of water.
 ---
+
 
 
