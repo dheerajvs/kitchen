@@ -28,18 +28,20 @@ recipeInstructions: >-
   4. Add salt and sugar / jaggery to the raw mango pulp in the blender and blend
   it to a smooth paste and strain it to an air tight container and refrigerate.
 
-  6. Aam ka panna can be served cold by mixing 1 tbsp of refrigerated aam ka
+  5. Aam ka panna can be served cold by mixing 1 tbsp of refrigerated aam ka
   panna to a glass of cold water along with a couple of ice cubes and mint
   leaves. Mint leaves adds additional flavor.
 
 
-  Notes:
+  \####Notes:
+
 
   1. Raw mango can be roated on fire or charcoal to soft pulp instead of
   pressure cooking. This gives a different taste.
 
   2. Aam ka panna can be diluted with soda instead of water.
 ---
+
 
 
 
