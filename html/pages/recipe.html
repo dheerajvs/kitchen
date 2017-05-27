@@ -26,7 +26,7 @@
     >
     </section>
     <section class="mdc-card__primary">
-      <h1 class="mdc-card__title mdc-card__title--large">{{recipe.name}}</h1>
+      <h1 class="mdc-card__title mdc-card__title--large">{{recipe.title}}</h1>
     </section>
     <section class="mdc-card__supporting-text">
       {{recipe.description}}
@@ -36,9 +36,32 @@
       <h1 class="mdc-card__title mdc-card__title--large">Ingredients</h1>
       <h2 class="mdc-card__subtitle">Yield: {{recipe.recipeYield}}</h2>
     </section>
-    <section class="mdc-card__supporting-text">
+    <ul class="mdc-list mdc-list--two-line mdc-list--dense mdc-list--avatar-list">
+      <li class="mdc-list-item">
+        <span class="mdc-list-item__start-detail grey-bg"></span>
+        <span class="mdc-list-item__text">
+          Onion
+          <span class="mdc-list-item__text__secondary">1 medium, chopped</span>
+        </span>
+      </li>
+      <li class="mdc-list-item">
+        <span class="mdc-list-item__start-detail grey-bg"></span>
+        <span class="mdc-list-item__text">
+          Tomatoes
+          <span class="mdc-list-item__text__secondary">1 medium, chopped</span>
+        </span>
+      </li>
+      <li class="mdc-list-item">
+        <span class="mdc-list-item__start-detail grey-bg"></span>
+        <span class="mdc-list-item__text">
+          Green chilli
+          <span class="mdc-list-item__text__secondary">2 chopped</span>
+        </span>
+      </li>
+    </ul>
+    <!-- <section class="mdc-card__supporting-text">
       {{{markdown recipe.recipeIngredient}}}
-    </section>
+    </section> -->
     <section class="mdc-card__primary">
       <h1 class="mdc-card__title mdc-card__title--large">Procedure</h1>
       <h2 class="mdc-card__subtitle">Time: {{duration recipe.totalTimeHours recipe.totalTimeMinutes}}</h2>
