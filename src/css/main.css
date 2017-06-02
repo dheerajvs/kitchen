@@ -144,6 +144,24 @@ textarea {
   background: rgba(0, 0, 0, .26);
 }
 
+.sk-procedure-list {
+  counter-reset: procedure-counter;
+  list-style-type: none;
+}
+
+.sk-procedure-list-item {
+  align-items: flex-start;
+  counter-increment: procedure-counter;
+  font-size: 0.875rem;
+  height: auto;
+  margin-bottom: 8px;
+}
+
+.sk-procedure-list-item::before {
+  content: counter(procedure-counter)".";
+  margin-right: 4px;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
