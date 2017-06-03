@@ -146,6 +146,10 @@ textarea {
 
 .sk-multiline-list-avatar {
   flex-shrink: 0;
+  /* align avatar to top */
+  align-self: flex-start;
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
 
 .mdc-list--avatar-list .sk-multiline-list-avatar-li {
