@@ -22,13 +22,12 @@ recipeIngredient: |-
    - 4 tbsp
   - Gingelly oil
    - 200 ml
-
-  ####Tempering
+  # Tempering
   - Gingelly oil
    - 2 tsp
   - Black mustard seeds
    - 1 tsp
-  - Round red chili 
+  - Round red chili
    - 6 nos.
   - Asafetida
    - 1/2 tsp
@@ -50,12 +49,11 @@ recipeInstructions: >-
   7. Store the pickle in a clean dry glass jar.
 
   8. For Tempering, in a pan heat the oil, then add black mustard, red chili and
-  asafetida. 
+  asafetida.
 
   9. Mix the tempering into the jar of mango pickles.
 
-  10. Keep in refrigerator for longevity. 
+  10. Keep in refrigerator for longevity.
 
   11. Yummy mango pickle is ready to be served with roti or rice
 ---
-

@@ -5,6 +5,7 @@ const grayMatter = require('gray-matter');
 
 const duration = require('./html/helpers/duration');
 const urlName = require('./html/helpers/urlName');
+const ingredients = require('./html/helpers/ingredients');
 
 // Read Markdown data files
 const recipes = glob.sync('html/data/_recipes/*.md')
@@ -21,6 +22,7 @@ const recipes = glob.sync('html/data/_recipes/*.md')
 require('handlebars-helpers')({handlebars: Handlebars});
 Handlebars.registerHelper('duration', duration);
 Handlebars.registerHelper('urlName', urlName);
+Handlebars.registerHelper('ingredients', ingredients);
 
 const defaultTemplate = fs.readFileSync('html/layouts/default.hbs', 'utf8');
 
@@ -47,4 +49,4 @@ Handlebars.registerPartial('body', fs.readFileSync('html/pages/categories.html',
 const categoriesTemplate = Handlebars.compile(defaultTemplate);
 fs.writeFileSync('public/categories.html', categoriesTemplate({baseUrl: ''}));
 
-console.log('build: completed');
+console.log(`build: completed at ${new Date().toTimeString()}`);

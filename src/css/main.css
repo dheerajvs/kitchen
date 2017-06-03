@@ -144,6 +144,16 @@ textarea {
   background: rgba(0, 0, 0, .26);
 }
 
+.sk-multiline-list-avatar {
+  flex-shrink: 0;
+}
+
+.mdc-list--avatar-list .sk-multiline-list-avatar-li {
+  height: initial;
+  padding-bottom: 6px;
+  padding-top: 6px;
+}
+
 .sk-procedure-list {
   counter-reset: procedure-counter;
   list-style-type: none;
