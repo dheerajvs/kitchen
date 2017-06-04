@@ -33,13 +33,14 @@ recipeInstructions: >-
   leaves. Mint leaves adds additional flavor.
 
 
-  #Notes
+  # Notes
 
   * Raw mango can be roated on fire or charcoal to soft pulp instead of pressure
   cooking. This gives a different taste.
 
   * Aam ka panna can be diluted with soda instead of water.
 ---
+
 
 
 
