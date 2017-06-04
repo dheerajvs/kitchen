@@ -153,7 +153,7 @@ textarea {
 }
 
 .mdc-list--avatar-list .sk-multiline-list-avatar-li {
-  height: initial;
+  height: auto;
   padding-bottom: 6px;
   padding-top: 6px;
 }
