@@ -17,30 +17,30 @@ recipeIngredient: |-
   - Sugar / Jaggery
    - 500 gms / based on the sweetness required
 recipeInstructions: >-
-  1. Rinse the raw mango thoroughly.
+  * Rinse the raw mango thoroughly.
 
-  2. Pressure cook the raw mango for 2-3 whistles till the raw mango becomes
-  soft and pulpy.
+  * Pressure cook the raw mango for 2-3 whistles till the raw mango becomes soft
+  and pulpy.
 
-  3. Once the pressure settles, remove the peel from the cooked raw mango and
-  get the pulp to a blender.
+  * Once the pressure settles, remove the peel from the cooked raw mango and get
+  the pulp to a blender.
 
-  4. Add salt and sugar / jaggery to the raw mango pulp in the blender and blend
+  * Add salt and sugar / jaggery to the raw mango pulp in the blender and blend
   it to a smooth paste and strain it to an air tight container and refrigerate.
 
-  5. Aam ka panna can be served cold by mixing 1 tbsp of refrigerated aam ka
+  * Aam ka panna can be served cold by mixing 1 tbsp of refrigerated aam ka
   panna to a glass of cold water along with a couple of ice cubes and mint
   leaves. Mint leaves adds additional flavor.
 
 
-  \####Notes:
+  #Notes
 
+  * Raw mango can be roated on fire or charcoal to soft pulp instead of pressure
+  cooking. This gives a different taste.
 
-  1. Raw mango can be roated on fire or charcoal to soft pulp instead of
-  pressure cooking. This gives a different taste.
-
-  2. Aam ka panna can be diluted with soda instead of water.
+  * Aam ka panna can be diluted with soda instead of water.
 ---
+
 
 
 
