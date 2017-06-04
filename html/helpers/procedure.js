@@ -28,5 +28,9 @@ module.exports = md => {
     ''
   );
 
-  return `<div class="mdc-list-group">${listItems}</div>`;
+  return `
+    <div class="mdc-list-group sk-recipe-list-group">
+      ${listItems}
+    </div>
+  `;
 };

@@ -31,12 +31,12 @@
       {{recipe.description}}
     </section>
 
-    <section class="mdc-card__primary">
+    <section class="mdc-card__primary sk-ingredients-section">
       <h1 class="mdc-card__title mdc-card__title--large">Ingredients</h1>
       <h2 class="mdc-card__subtitle">Yield: {{recipe.recipeYield}}</h2>
       {{{ingredients recipe.recipeIngredient}}}
     </section>
-    <section class="mdc-card__primary">
+    <section class="mdc-card__primary sk-procedure-section">
       <h1 class="mdc-card__title mdc-card__title--large">Procedure</h1>
       <h2 class="mdc-card__subtitle">Time: {{duration recipe.totalTimeHours recipe.totalTimeMinutes}}</h2>
       {{{procedure recipe.recipeInstructions}}}

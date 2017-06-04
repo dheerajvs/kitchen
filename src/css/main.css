@@ -158,22 +158,35 @@ textarea {
   padding-top: 6px;
 }
 
+.sk-ingredients-section {
+  margin-top: -12px;
+}
+
+.sk-procedure-section {
+  margin-top: -24px;
+}
+
+.sk-recipe-list-group {
+  margin-top: 12px;
+}
+
 .sk-procedure-list {
   counter-reset: procedure-counter;
+  font-size: 0.875rem;
+  line-height: 1.5em;
   list-style-type: none;
 }
 
 .sk-procedure-list-item {
   align-items: flex-start;
   counter-increment: procedure-counter;
-  font-size: 0.875rem;
   height: auto;
   margin-bottom: 8px;
 }
 
 .sk-procedure-list-item::before {
   content: counter(procedure-counter)".";
-  margin-right: 4px;
+  margin-right: 6px;
 }
 
 /* ==========================================================================
