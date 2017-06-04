@@ -19,10 +19,8 @@
         </i>
       </section>
     </div>
-    <section
-      class="mdc-card__media"
-      style="background-color: gray; background-image: url('{{baseUrl}}{{replace recipe.image "/public/" ""}}');"
-    >
+    <section class="sk-recipe-media">
+      <img alt="{{recipe.title}}" src="{{baseUrl}}{{replace recipe.image '/public/' ''}}">
     </section>
     <section class="mdc-card__primary">
       <h1 class="mdc-card__title mdc-card__title--large">{{recipe.title}}</h1>
@@ -40,10 +38,6 @@
       <h1 class="mdc-card__title mdc-card__title--large">Procedure</h1>
       <h2 class="mdc-card__subtitle">Time: {{duration recipe.totalTimeHours recipe.totalTimeMinutes}}</h2>
       {{{procedure recipe.recipeInstructions}}}
-    </section>
-    <section class="mdc-card__actions">
-      <button class="mdc-button mdc-button--compact mdc-card__action">Like</button>
-      <button class="mdc-button mdc-button--compact mdc-card__action">Share</button>
     </section>
   </article>
 </main>

@@ -117,9 +117,9 @@ textarea {
 }
 
 .mdc-card__media {
-   background-size: cover;
+   /*background-size: cover;
    background-repeat: no-repeat;
-   height: 120px;
+   height: 120px;*/
  }
 
 .footer-container.mdc-toolbar {
@@ -140,8 +140,34 @@ textarea {
   max-width: 600px;
 }
 
+.recipe-main .mdc-card {
+  margin-bottom: 2px; /* make box shadow visible */
+}
+
 .grey-bg {
   background: rgba(0, 0, 0, .26);
+}
+
+.mdc-toolbar .mdc-button {
+  color: var(--mdc-theme-text-primary-on-primary, white);
+}
+
+#cat-menu {
+  background-color: var(--mdc-theme-primary);
+}
+
+#cat-menu .mdc-list {
+  color: var(--mdc-theme-text-primary-on-primary, white);
+}
+
+.sk-recipe-media img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.mdc-list-group__subheader {
+  font-weight: bold;
 }
 
 .sk-multiline-list-avatar {

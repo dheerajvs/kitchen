@@ -4,14 +4,16 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title></title>
+  <title>Sowmya.Kitchen</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <meta name="theme-color" content="#3f51b5">
+  <meta name="mobile-web-app-capable" content="yes">
   <link rel="apple-touch-icon" href="{{baseUrl}}apple-touch-icon.png">
 
   <link rel="stylesheet" href="{{baseUrl}}css/normalize.css">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <link rel="stylesheet" href="{{baseUrl}}css/material-components-web.css">
   <link rel="stylesheet" href="{{baseUrl}}css/main.css">
 </head>
@@ -25,12 +27,30 @@
     </div>
     <div class="mdc-toolbar__row">
       <section class="mdc-toolbar__section" role="toolbar">
-        <nav class="mdc-tab-bar">
-          <a class="mdc-tab mdc-tab--active" href="#one">Recipes</a>
-          <a class="mdc-tab" href="#two">Categories</a>
-          <a class="mdc-tab" href="#three">Tips</a>
-          <span class="mdc-tab-bar__indicator"></span>
-        </nav>
+        <a href="/" class="mdc-button mdc-button--dense">
+          Recipes
+        </a>
+        <div>
+          <button class="mdc-button mdc-button--dense" id="cat-toggle">
+            Categories
+          </button>
+          <div class="mdc-simple-menu" tabindex="-1" id="cat-menu">
+            <ul class="mdc-simple-menu__items mdc-list" role="menu" aria-hidden="true">
+              <li class="mdc-list-item" role="menuitem" tabindex="0">Beverages</li>
+              <li class="mdc-list-item" role="menuitem" tabindex="0">Breakfast</li>
+              <li class="mdc-list-item" role="menuitem" tabindex="0">Desserts</li>
+              <li class="mdc-list-item" role="menuitem" tabindex="0">Snacks</li>
+              <li class="mdc-list-divider" role="separator"></li>
+              <li class="mdc-list-item" role="menuitem" tabindex="0">Andhra</li>
+              <li class="mdc-list-item" role="menuitem" tabindex="0">Karnataka</li>
+              <li class="mdc-list-item" role="menuitem" tabindex="0">North Indian</li>
+              <li class="mdc-list-item" role="menuitem" tabindex="0">South Indian</li>
+            </ul>
+          </div>
+        </div>
+        <a href="/tips.html" class="mdc-button mdc-button--dense">
+          Tips
+        </a>
       </section>
     </div>
   </header>
@@ -53,6 +73,7 @@
     var toolbar = mdc.toolbar.MDCToolbar.attachTo(document.querySelector('.mdc-toolbar'));
     toolbar.fixedAdjustElement = document.querySelector('.mdc-toolbar-fixed-adjust');
   </script>
+  <script src="{{baseUrl}}js/index.js"></script>
 </body>
 
 </html>

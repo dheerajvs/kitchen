@@ -3,10 +3,8 @@
   <article class="mdc-layout-grid__cell mdc-layout-grid__cell--span-3-desktop">
     <a class="no-text-decor" href="recipe/{{urlName title}}.html">
       <div class="mdc-card">
-        <section
-          class="mdc-card__media"
-          style="background-color: gray; background-image: url('{{baseUrl}}{{replace image "/public/" ""}}');"
-        >
+        <section class="sk-recipe-media">
+          <img alt="{{recipe.title}}" src="{{baseUrl}}{{replace image '/public/' ''}}">
         </section>
         <section class="mdc-card__primary">
           <h1 class="mdc-card__title mdc-card__title--large">{{title}}</h1>
