@@ -29,12 +29,12 @@ Handlebars.registerHelper('procedure', procedure);
 const defaultTemplate = fs.readFileSync('html/layouts/default.hbs', 'utf8');
 
 // Generate /index.html
-Handlebars.registerPartial('body', fs.readFileSync('html/pages/index.html', 'utf8'));
+Handlebars.registerPartial('body', fs.readFileSync('html/pages/index.hbs', 'utf8'));
 const indexTemplate = Handlebars.compile(defaultTemplate);
 fs.writeFileSync('public/index.html', indexTemplate({baseUrl: '', recipes}));
 
 // Generate /recipe/:recipe.html
-Handlebars.registerPartial('body', fs.readFileSync('html/pages/recipe.html', 'utf8'));
+Handlebars.registerPartial('body', fs.readFileSync('html/pages/recipe.hbs', 'utf8'));
 const recipeTemplate = Handlebars.compile(defaultTemplate);
 
 if (!fs.existsSync('public/recipe')) {
@@ -47,7 +47,7 @@ recipes.forEach(recipe => {
 });
 
 // Generate /categories.html
-Handlebars.registerPartial('body', fs.readFileSync('html/pages/categories.html', 'utf8'));
+Handlebars.registerPartial('body', fs.readFileSync('html/pages/categories.hbs', 'utf8'));
 const categoriesTemplate = Handlebars.compile(defaultTemplate);
 fs.writeFileSync('public/categories.html', categoriesTemplate({baseUrl: ''}));
 
