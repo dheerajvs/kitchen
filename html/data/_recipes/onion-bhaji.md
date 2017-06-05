@@ -39,32 +39,29 @@ recipeIngredient: |-
   - Vegetable oil
    - 1/2 liter
 recipeInstructions: >-
-  - In a bowl, add gram flour, rice flour, onions, green chilies, ginger,
+  # Preparations
+
+  * In a bowl, add gram flour, rice flour, onions, green chilies, ginger,
   garlic, turmeric powder, red chili powder, jeera powder, coriander leaves,
   curry leaves,  asafoetida, Salt as required.
 
-
-  - Add water to make batter and mix it well without any lumps. The bhaji batter
+  * Add water to make batter and mix it well without any lumps. The bhaji batter
   should not be thin but of medium thick consistency.
 
-
-  - Check the spices, if salt or the spiciness is less, accordingly add the salt
+  * Check the spices, if salt or the spiciness is less, accordingly add the salt
   or chili powder.
 
-
-  - Heat oil in a pan. keep the flame medium. When the oil becomes hot, take
+  * Heat oil in a pan. keep the flame medium. When the oil becomes hot, take
   spoonful of the bhaji batter and pour it in the oil. Add 6-8 spoonfuls of the
   bhaji batter in the oil individually, so you have 6-8 bhaji frying at a time.
 
+  * Fry the bhaji in batches till they become crisp and golden brown.
 
-  - Fry the bhaji in batches till they become crisp and golden brown.
-
-
-  - Drain the fried bhaji on kitchen paper towels, so that any excess oil is
+  * Drain the fried bhaji on kitchen paper towels, so that any excess oil is
   drained out to the paper towels.
 
-
-  - Serve the bhaji hot with tomato ketchup or mint coriander chutney.
+  * Serve the bhaji hot with tomato ketchup or mint coriander chutney.
 ---
+
 
 
