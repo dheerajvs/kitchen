@@ -47,7 +47,6 @@ recipeIngredient: |-
 recipeInstructions: >-
   # Preparations
 
-
   * Wash beaten rice 2-3 times and soak it with 1 cup of water, keep it aside
   for 15 minutes to soak. It should feel like cooked rice once all the water is
   absorbed.
@@ -88,6 +87,7 @@ recipeInstructions: >-
 
   * Serve hot for breakfast or tea time snacks.
 ---
+
 
 
 
