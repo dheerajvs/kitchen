@@ -63,33 +63,36 @@ recipeIngredient: |-
   - Salt as per taste
   - Fresh Coriander Leaves
    - Chopped finely for garnish
-recipeInstructions: >
-  1. Take all the ingredients mentioned under "Masala Paste" in a blender and
+recipeInstructions: >-
+  # Preparations
+
+  * Take all the ingredients mentioned under "Masala Paste" in a blender and
   grind to a smooth paste by adding required amount of water.
 
-  2. Heat oil in a pressure cooker.
+  * Heat oil in a pressure cooker.
 
-  3. Add curry leaves, followed by onion and saute till the onions become
+  * Add curry leaves, followed by onion and saute till the onions become
   translucent.
 
-  4. Add chopped tomatoes and turmeric powder. Saute for 4 to 5 mins till the
+  * Add chopped tomatoes and turmeric powder. Saute for 4 to 5 mins till the
   tomatoes soften.
 
-  5. Add the ground masala paste and saute till oil starts to leave the sides of
+  * Add the ground masala paste and saute till oil starts to leave the sides of
   the paste; This takes about 4 to 5 mins on a low flame. Keep sauteing often,
   so that the masala paste does not stick to the bottom of the cooker.
 
-  6. Add 1.5 cups water.
+  * Add 1.5 cups water.
 
-  7. Add salt as per required taste.
+  * Add salt as per required taste.
 
-  8. Mix well the contents, cover the pressure cooker with its lid and pressure
+  * Mix well the contents, cover the pressure cooker with its lid and pressure
   cook for 2 to 3 whistles on medium flame. Turn off the frame and let the
   pressure settle by itself.
 
-  9. Remove the lid, mix well from the bottom and then garnish with some
+  * Remove the lid, mix well from the bottom and then garnish with some
   coriander leaves. Serve the vegetable korma with chapatis, parathas, pooris or
   ghee rice.
 ---
+
 
 
