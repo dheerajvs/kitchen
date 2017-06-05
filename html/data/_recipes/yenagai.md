@@ -24,7 +24,7 @@ recipeIngredient: |-
    - 10-12
   - Salt as per taste
 
-  ### For the Masala
+  ### For Masala
 
   - Grated fresh coconut
    - 1/2 to 3/4 cup
@@ -49,6 +49,8 @@ recipeIngredient: |-
   - Onion 
    - 1/4 cup, chopped coarsely
 recipeInstructions: >-
+  # Preparations
+
   * Dry roast the coriander seeds, cumin, red chilies, cloves, cinnamon, sesame
   and peanuts until the peanuts start popping a little; Make sure not to burn
   any of the spices.
@@ -80,6 +82,7 @@ recipeInstructions: >-
 
   * Remove from the stove and serve hot with rice, rotis, dosas etc.
 ---
+
 
 
 
