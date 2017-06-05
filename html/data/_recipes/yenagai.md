@@ -73,7 +73,7 @@ recipeInstructions: >-
   are cooked on all sides.
 
   * Add some water to the saved masala paste and pour into the pan over the
-  eggplants; Adjust ingredients according to taste
+  eggplants; Adjust ingredients according to taste.
 
   * Saute regularly and continue to cook covered, until the eggplants are well
   cooked and soft and the gravy reaches the desired consistency.
