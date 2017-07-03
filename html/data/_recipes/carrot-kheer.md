@@ -31,8 +31,8 @@ recipeInstructions: >
 
   * Pressure cook the cut carrot for 2 whistles.
 
-  * In a blender, blend the cooked carrot, cardamom, sugar / honey to a smooth
-  paste.
+  * In a blender, blend the cooked and cooled carrot, cardamom, sugar / honey to
+  a smooth paste.
 
   * In a thick bottomed vessel, boil milk.
 
@@ -51,4 +51,5 @@ recipeInstructions: >
 
   * Carrot Kheer is ready to be served hot.
 ---
+
 
