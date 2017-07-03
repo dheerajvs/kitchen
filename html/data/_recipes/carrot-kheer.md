@@ -22,8 +22,10 @@ recipeIngredient: |-
     - 10 nos.
   - Ghee
     - 1 tbsp
-  - Condensed Milk
+  - Condensed Milk (Optional)
     - 1 tbsp
+  - Saffron (Optional)
+    - 5-6 strands
 recipeInstructions: >
   # Preparation
 
@@ -47,9 +49,14 @@ recipeInstructions: >
   * Once the ghee heats up, add cashew and fry till golden brown. Now add the
   raisins to the ghee and turn off the burner.
 
-  * Add this tempering to the kheer.
+  * Add the tempering to the kheer.
 
-  * Carrot Kheer is ready to be served hot.
+  * If you decide to add saffron, you can soak the saffron in 5 ml warm milk for
+  10 minutes and add it to the kheer and mix well. 
+
+  * Carrot Kheer is ready to be served hot. Alternatively you can chill the
+  kheer before serving. 
 ---
+
 
 
