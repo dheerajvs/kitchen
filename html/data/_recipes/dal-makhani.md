@@ -27,6 +27,8 @@ recipeIngredient: |-
   - Turmeric powder
    - 1 tsp
   - Red chili powder
+   - 1 tsp
+  - Coriander powder
    - ½ tsp
   - Garam masala powder
    - ½ tsp
@@ -61,7 +63,7 @@ recipeInstructions: >-
   * Add the tomatoes and green chilli, and fry again for a few minutes till the
   tomatoes become soft.
 
-  * Add turmeric, red chilli powder and mix well.
+  * Add turmeric, red chilli powder, coriander powder and mix well.
 
   * Add the dal to the tempering and then add salt as per requirement.
 
@@ -80,4 +82,5 @@ recipeInstructions: >-
 
   * Masoor dal is ready to be served with some basmati rice or rotis.
 ---
+
 
