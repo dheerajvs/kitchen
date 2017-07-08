@@ -1,5 +1,5 @@
 ---
-title: Panjabi Bindi
+title: Panjabi Bhindi
 author: Sowmya B A
 datePublished: 2017-07-04T13:05:23.613Z
 description: 'Spicy, stir fried, dry saute okra curry '
@@ -10,7 +10,7 @@ recipeYield: '3'
 recipeIngredient: >-
   * Okra / Ladies finger / bhindi
 
-  * 300gms, choose tender and slender bindi wash, dry, trim the ends and cut
+  * 300gms, choose tender and slender bhindi wash, dry, trim the ends and cut
   into 1/2" pieces
 
   * Cumin seeds
@@ -97,5 +97,6 @@ recipeInstructions: >-
 
   * Can add a tsp of Ghee in the end before serving.
 ---
+
 
 
