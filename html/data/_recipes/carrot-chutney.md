@@ -76,9 +76,10 @@ recipeInstructions: >-
 
 
 
-  Garnish with finely chopped fresh coriander leaves.
+  Garnish with finely chopped fresh coriander leaves and
 
-  Serve it with hot rice and ghee or can be had along with roties as side dish
+  serve with hot rice and ghee or can be had along with roties as side dish
 ---
+
 
 
