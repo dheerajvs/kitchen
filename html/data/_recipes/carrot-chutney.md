@@ -75,11 +75,12 @@ recipeInstructions: >-
   it turns crispy. Add the grinded paste to the tempering pan and mix it well.
 
 
+  # Tips
 
-  Garnish with finely chopped fresh coriander leaves and
-
-  serve with hot rice and ghee or can be had along with roties as side dish
+  Garnish with finely chopped fresh coriander leaves and serve with hot rice and
+  ghee or can be had along with roties as side dish
 ---
+
 
 
 
