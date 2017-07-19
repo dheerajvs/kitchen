@@ -36,8 +36,9 @@ recipeIngredient: |-
    - 2 tsp
   - Cooking oil
    - 2 tbsp
-recipeInstructions: >-
+recipeInstructions: >
   # Procedure
+
 
   * Take a cooking pan, heat up 1 tsp of oil.
 
@@ -69,18 +70,18 @@ recipeInstructions: >-
 
   # Tempering
 
+
   * For tempering, heat 1 tsp oil in the pan. Add 1 tsp urad dhal and fry it
   till golden brown. Now add 1 red chilly broken into 2 pieces followed by
   mustard. Wait for the mustard to sputter. Then add curry leaves and wait till
-  it turns crispy. Add the grinded paste to the tempering pan and mix it well.
+  it turns crispy. Add the ground paste to the tempering pan and mix it well.
 
-
-  # Tips
 
   * Garnish with finely chopped fresh coriander leaves.
 
   * Serve with hot rice and ghee or can be had along with roties as side dish
 ---
+
 
 
 
