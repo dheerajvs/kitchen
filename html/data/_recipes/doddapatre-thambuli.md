@@ -26,9 +26,7 @@ recipeIngredient: |-
   * 1 tsp
   * Salt
   * As per taste
-
-  \#Tempering
-
+  #Tempering
   * Vegetable oil
   * 1 tsp
   * Cumin Seeds / Jeera
@@ -64,6 +62,7 @@ recipeInstructions: >-
 
   * Serve doddapatre tambli in room temperature with hot steaming rice.
 ---
+
 
 
 
