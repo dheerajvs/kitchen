@@ -66,6 +66,7 @@ recipeInstructions: >-
   * To the powder in the blender, add the roasted carrot with green chilly and
   tamarind paste and blend it coarse.
 
+
   # Tempering
 
   * For tempering, heat 1 tsp oil in the pan. Add 1 tsp urad dhal and fry it
@@ -73,8 +74,11 @@ recipeInstructions: >-
   mustard. Wait for the mustard to sputter. Then add curry leaves and wait till
   it turns crispy. Add the grinded paste to the tempering pan and mix it well.
 
-  * Garnish with finely chopped fresh coriander leaves.
 
-  * Serve it with hot rice and ghee or can be had along with roties as side dish
+
+  Garnish with finely chopped fresh coriander leaves.
+
+  Serve it with hot rice and ghee or can be had along with roties as side dish
 ---
+
 
