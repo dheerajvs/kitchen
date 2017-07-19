@@ -8,35 +8,35 @@ totalTimeHours: '0'
 totalTimeMinutes: '15'
 recipeYield: 3-4
 recipeIngredient: |-
-  * Dodda Patre / Ajwain leaf
-  * 15-20 leaves
-  * Cumin Seeds / Jeera
-  * 1 tsp
-  * Pepper
-  * 3-5 pods
-  * Green Chilly
-  * 2-3 (based on the spice requirement, usually kept less spicy)
-  * Ginger
-  * 1/2 inch
-  * Coconut
-  * 1/4 cup freshly grated coconut
-  * Sour curd / buttermilk
-  * 1.5 cups
-  * Vegetable oil
-  * 1 tsp
-  * Salt
-  * As per taste
+  - Dodda Patre / Ajwain leaf
+   - 15-20 leaves
+  - Cumin Seeds / Jeera
+   - 1 tsp
+  - Pepper
+   - 3-5 pods
+  - Green Chilly
+   - 2-3 (based on the spice requirement, usually kept less spicy)
+  - Ginger
+   - 1/2 inch
+  - Coconut
+   - 1/4 cup freshly grated coconut
+  - Sour curd / buttermilk
+   - 1.5 cups
+  - Vegetable oil
+   - 1 tsp
+  - Salt
+   - As per taste
   #Tempering
-  * Vegetable oil
-  * 1 tsp
-  * Cumin Seeds / Jeera
-  * 1/2 tsp
-  * Mustard seeds
-  * 1/2 tsp
-  * Curry leave
-  * 5-6 leaves
-  * Dry round red chilli
-  * 2 nos.
+  - Vegetable oil
+   - 1 tsp
+  - Cumin Seeds / Jeera
+   - 1/2 tsp
+  - Mustard seeds
+   - 1/2 tsp
+  - Curry leave
+   - 5-6 leaves
+  - Dry round red chilli
+   - 2 nos.
 recipeInstructions: >-
   # Preparations
 
@@ -62,6 +62,7 @@ recipeInstructions: >-
 
   * Serve doddapatre tambli in room temperature with hot steaming rice.
 ---
+
 
 
 
