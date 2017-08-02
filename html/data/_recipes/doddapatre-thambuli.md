@@ -61,7 +61,21 @@ recipeInstructions: >-
   tempering on the thambli in the bowl.
 
   * Serve doddapatre tambli in room temperature with hot steaming rice.
+
+
+  #Tips
+
+  * Thambuli can also be done with radish, gooseberry or ash guard.
+
+  * If you are doing with radish or gooseberry, you'll need to wash, dry, grate
+  and then roast it with a teaspoon of cooking oil.
+
+  * If you are doing with ash guard you can remove the peal and boil it with a
+  pinch of salt and turmeric. Do not grind this.
+
+  * Rest of the procedure remain the same.
 ---
+
 
 
 
