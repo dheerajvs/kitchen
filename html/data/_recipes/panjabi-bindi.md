@@ -7,63 +7,35 @@ image: /img/Tomato-Soup.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '30'
 recipeYield: '3'
-recipeIngredient: >-
-  * Okra / Ladies finger / bhindi
-
-  * 300gms, choose tender and slender bhindi wash, dry, trim the ends and cut
-  into 1/2" pieces
-
-  * Cumin seeds
-
-  * 1 tsp
-
-  * Curry leaves
-
-  * 10-15 nos.
-
-  * Green chili
-
-  * 1 nos. finely chopped
-
-  * Onions
-
-  * 1, medium finely chopped
-
-  * Tomato
-
-  * 1, medium finely chopped
-
-  * Turmeric powder
-
-  * 1/4 tsp
-
-  * Red chili powder
-
-  * 1 tsp
-
-  * Coriander powder
-
-  * 1/2 tsp
-
-  * Garam Masala powder
-
-  * 1/4 tsp
-
-  * Kasuri Methi / fresh Fenugreek leaves
-
-  * 1/4 tsp / hand full
-
-  * Cooking oil
-
-  * 2 tbsps
-
-  * Salt
-
-  * As per taste
-
-  * Coriander leaves
-
-  * Handful for garnishing
+recipeIngredient: |-
+  - Okra / Ladies finger / bhindi
+   - 300gms, choose tender and slender bhindi wash, dry, trim the ends and cut into 1/2" pieces
+  - Cumin seeds
+   - 1 tsp
+  - Curry leaves
+   - 10-15 nos.
+  - Green chili
+   - 1 nos. finely chopped
+  - Onions
+   - 1, medium finely chopped
+  - Tomato
+   - 1, medium finely chopped
+  - Turmeric powder
+   - 1/4 tsp
+  - Red chili powder
+   - 1 tsp
+  - Coriander powder
+   - 1/2 tsp
+  - Garam Masala powder
+   - 1/4 tsp
+  - Kasuri Methi / fresh Fenugreek leaves
+   - 1/4 tsp / hand full
+  - Cooking oil
+   - 2 tbsps
+  - Salt
+   - As per taste
+  - Coriander leaves
+   - Handful for garnishing
 recipeInstructions: >-
   # Procedure
 
@@ -95,8 +67,11 @@ recipeInstructions: >-
 
   # Tips
 
-  * Can add a tsp of Ghee in the end before serving.
+  * Can add a tsp of Ghee in the end before serving
+
+  * Can be had with rice, rotis, dosas or just as it is.
 ---
+
 
 
 
