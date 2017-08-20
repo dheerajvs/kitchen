@@ -17,9 +17,9 @@ recipeIngredient: |-
   - Green chili
    - 1 nos. finely chopped
   - Onions
-   - 1, medium finely chopped
+   - 1, medium sized, finely chopped
   - Tomato
-   - 1, medium finely chopped
+   - 1, medium sized, finely chopped
   - Turmeric powder
    - 1/4 tsp
   - Red chili powder
@@ -71,6 +71,7 @@ recipeInstructions: >-
 
   * Can be had with rice, rotis, dosas or just as it is.
 ---
+
 
 
 
