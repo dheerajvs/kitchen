@@ -1,10 +1,10 @@
 ---
-title: Ginger Lemon Pachadi
+title: Ginger Lemon Pachadi / Pickle
 author: Sowmya B A
 datePublished: 2017-08-20T17:13:23.176Z
 description: >-
-  Simple to do, Spicy, juicy mouth watering andhra style pachadi made of ginger
-  and lemon. 
+  Simple to do, spicy, juicy mouth watering Andhra style pachadi / Pickle made
+  of ginger and lemon. 
 image: /img/Tomato-Soup.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '10'
@@ -48,4 +48,5 @@ recipeInstructions: >-
 
   * Ginger Lemon pachadi can be had with rice, roti, dosa etc. as preffered
 ---
+
 
