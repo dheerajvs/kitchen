@@ -16,29 +16,25 @@ recipeIngredient: |
    - Juice extracted out of 2 pulpy lemons
   - Red chilly
    - 4 no. or as per spice required
-  - Green Chilly
-   - 2 no. or as per the spice required
   - Salt
    - As per taste
+  - Black Mustard
+   - 1/2 tsp
   - Cooking Oil
    - 1 tsp
 recipeInstructions: >-
   # Procedure
 
-  * In a small seasoning pan, take 1/2 tsp of oil and get to hot.
-
-  * Add broken pieces of green chilly and let it form light colored patches on
-  it.
-
-  * Add broken pieces of red chilly and roast it for 10 seconds.
-
-  * Turn of the burner and let it cool.
+  * In a small seasoning pan, take 1/2 tsp of oil and get to hot. Add broken
+  pieces of red chilly and roast it for 10 seconds. Turn of the burner and let
+  it cool.
 
   * In a small blender add the roasted green and red chilies along with the
   grated ginger and salt as per taste and blend it to a smooth paste.
 
   * For tempering, in the same seasoning pan used earlier add the remaining 1/2
-  tsp of cooking oil. Once hot add mustard and let it crackle.
+  tsp of cooking oil. Once hot, add mustard and let it crackle. Turn off the
+  burner.
 
   * In a a small mixing bowl transfer the ground ginger-chilly paste, to this
   add the lemon juice and the tempering done and mix well.
@@ -48,5 +44,6 @@ recipeInstructions: >-
 
   * Ginger Lemon pachadi can be had with rice, roti, dosa etc. as preffered
 ---
+
 
 
