@@ -1,8 +1,10 @@
 ---
-title: Rice and Coconut Barfi
+title: Rice Coconut Steamed Barfi
 author: Sowmya B A
 datePublished: 2017-08-29T07:42:17.080Z
-description: Sweet popular in Karnataka during festivals made from fresh coconut and rice.
+description: >-
+  Rice Coconut Steamed Barfi is a popular sweet in Karnataka during festivals,
+  made from fresh coconut, rice and jaggery.
 image: /img/Tomato-Soup.jpg
 totalTimeHours: '4'
 totalTimeMinutes: '10'
@@ -39,4 +41,5 @@ recipeInstructions: >-
 
   * Rice Coconut barfi can be eaten anytime of the day
 ---
+
 
