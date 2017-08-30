@@ -20,6 +20,8 @@ recipeIngredient: |-
    - 4 nos.
   - Cinnamon
    - 2 inches long
+  - Pepper
+   - 3 nos.
   - Ginger
    - 2 inches long
   - Garlic
@@ -33,9 +35,9 @@ recipeIngredient: |-
 recipeInstructions: >
   # Procedure
 
-  * In a blender, add the green chilly, clove, cinnamon, ginger, garlic, curry
-  leaves and blend it to a smooth paste. To this add channa dhal and blend the
-  dhal to a coarse texture.
+  * In a blender, add the green chilly, clove, cinnamon, pepper, ginger, garlic,
+  curry leaves and blend it to a smooth paste. To this add channa dhal and blend
+  the dhal to a coarse texture.
 
   * Now add the dill leaves, chopped onion and salt to the blender with the
   mixture and blend it just to mix it well.
@@ -48,5 +50,6 @@ recipeInstructions: >
   * Masala vadas ready to be eaten as evening snacks or along with rice as a
   side dish.
 ---
+
 
 
