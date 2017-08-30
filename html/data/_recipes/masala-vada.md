@@ -13,7 +13,7 @@ recipeIngredient: |-
   - Onion
    - 1 big sized, finely chopped
   - Dill leaves
-   - 1 small bundle, steams removed, washed and finely chopped
+   - 1 small bundle, stems removed, washed and finely chopped
   - Green chilly
    - 6 nos. or As per taste
   - Clove
@@ -39,17 +39,18 @@ recipeInstructions: >
   curry leaves and blend it to a smooth paste. To this add channa dhal and blend
   the dhal to a coarse texture.
 
-  * Now add the dill leaves, chopped onion and salt to the blender with the
-  mixture and blend it just to mix it well.
+  * Now add the dill leaves, chopped onion and salt to the blender having the
+  dhal mixture and blend it just to mix it well.
 
-  * In a frying pan heat the oil till ready to fry.
+  * In a frying pan, heat the oil till ready to fry.
 
-  * Use this blended dhal mixture, make them to flat patis and deep fry to
+  * Using the blended dhal mixture, make flat patis / disc and deep fry them to
   golden brown.
 
   * Masala vadas ready to be eaten as evening snacks or along with rice as a
   side dish.
 ---
+
 
 
 
