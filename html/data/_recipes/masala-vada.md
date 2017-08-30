@@ -31,6 +31,8 @@ recipeIngredient: |-
   - Frying oil
    - 1/2 litre
 recipeInstructions: >
+  # Procedure
+
   * In a blender, add the green chilly, clove, cinnamon, ginger, garlic, curry
   leaves and blend it to a smooth paste. To this add channa dhal and blend the
   dhal to a coarse texture.
@@ -46,4 +48,5 @@ recipeInstructions: >
   * Masala vadas ready to be eaten as evening snacks or along with rice as a
   side dish.
 ---
+
 
