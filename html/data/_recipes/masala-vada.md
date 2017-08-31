@@ -2,14 +2,16 @@
 title: Masala Vada
 author: Sowmya B A
 datePublished: 2017-08-30T13:09:28.776Z
-description: 'Fried evening time snacks, special of Karnataka '
+description: >-
+  Masala vada is a fried tea time snack, special of South Indian homes served
+  with a coconut mint chutney.
 image: /img/IMG_20170804_135425916~2.jpg
 totalTimeHours: '2'
 totalTimeMinutes: '0'
 recipeYield: '4'
 recipeIngredient: |-
-  - Channa dhal (Bengal gram dhal)
-   - 200 gms, washed and soaked for 1 hour
+  - Chana dal (Bengal gram dal)
+   - 200 gms, washed and soaked in good amount of water for 1.5 hours. After 1.5 hours drain water completely.
   - Onion
    - 1 big sized, finely chopped
   - Dill leaves
@@ -36,20 +38,22 @@ recipeInstructions: >
   # Procedure
 
   * In a blender, add the green chilly, clove, cinnamon, pepper, ginger, garlic,
-  curry leaves and blend it to a smooth paste. To this add channa dhal and blend
-  the dhal to a coarse texture.
+  curry leaves and blend it to a smooth paste. To this add chana dal and blend
+  the dal to a coarse texture. Note: Do not add water while grinding.
 
   * Now add the dill leaves, chopped onion and salt to the blender having the
-  dhal mixture and blend it just to mix it well.
+  dal mixture and blend it just to mix it well. The mixture must have a good
+  binding to shape them to vadas.
 
   * In a frying pan, heat the oil till ready to fry.
 
-  * Using the blended dhal mixture, make flat patis / disc and deep fry them to
-  golden brown.
+  * Using the blended dhal mixture, make balls and flatten them to vadas. Deep
+  fry, until golden brown on both sides.
 
-  * Masala vadas ready to be eaten as evening snacks or along with rice as a
-  side dish.
+  * Masala vadas ready to be eaten as evening snacks or along with meals along
+  with ketchup or mint chutney.
 ---
+
 
 
 
