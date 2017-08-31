@@ -3,7 +3,7 @@ title: Masala Vada
 author: Sowmya B A
 datePublished: 2017-08-30T13:09:28.776Z
 description: 'Fried evening time snacks, special of Karnataka '
-image: /img/Onion-Bhaji.jpg
+image: /img/IMG_20170804_135425916~2.jpg
 totalTimeHours: '2'
 totalTimeMinutes: '0'
 recipeYield: '4'
@@ -50,6 +50,7 @@ recipeInstructions: >
   * Masala vadas ready to be eaten as evening snacks or along with rice as a
   side dish.
 ---
+
 
 
 
