@@ -5,7 +5,7 @@ datePublished: 2016-10-07T00:00:00.000Z
 description: >-
   Badam Halwa is a delicious Indian recipe made from almond, served hot as a
   dessert
-image: badam-halwa.jpg
+image: /img/Badam-Halwa.jpg
 totalTimeHours: '1'
 totalTimeMinutes: '30'
 recipeYield: 4 servings
@@ -51,4 +51,5 @@ recipeInstructions: >-
 
   * Once it cools the halwa will thicken.
 ---
+
 
