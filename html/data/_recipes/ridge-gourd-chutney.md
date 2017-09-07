@@ -5,7 +5,7 @@ datePublished: 2017-07-08T12:33:16.616Z
 description: >-
   Ridge Gourd Chutney is a popular Andhar pachadi, edible with steamed rice or
   chapathis.
-image: /img/Tomato-Soup.jpg
+image: /img/Ridge-Gourd-Chutney.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '20'
 recipeYield: '4'
@@ -63,6 +63,7 @@ recipeInstructions: >
 
   # Tips
 
-  * Serve along with ghee, to relish the taste 
+  * Serve along with ghee, to relish the taste
 ---
+
 
