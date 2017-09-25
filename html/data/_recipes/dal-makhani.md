@@ -46,10 +46,11 @@ recipeIngredient: |-
 recipeInstructions: >-
   # Preparations
 
-  * Soak brown lentils for 3-4 hours.
+  * Soak brown lentils for 3-4 hours, if using kidney beans you'll need to soak
+  it overnight.
 
-  * Pressure cook the lentils with 2.5 to 3 cups water till they are cooked
-  soft.
+  * Pressure cook the lentils with 2.5 to 3 cups of water and a tsp of salt,
+  till its cooked soft.
 
   * Heat oil for tempering the dal in the pan.
 
@@ -57,10 +58,10 @@ recipeInstructions: >-
 
   * Add the onions and fry till the onions are golden brown.
 
-  * Add the ginger-garlic paste and fry for a minute, till the raw aroma of
+  * Add ginger-garlic paste and fry for a minute, till the raw aroma of
   ginger-garlic disappears.
 
-  * Add the tomatoes and green chilli, and fry again for a few minutes till the
+  * Add chopped tomatoes and green chilli, fry again for a few minutes till the
   tomatoes become soft.
 
   * Add turmeric, red chilli powder, coriander powder and mix well.
@@ -82,5 +83,6 @@ recipeInstructions: >-
 
   * Masoor dal is ready to be served with some basmati rice or rotis.
 ---
+
 
 
