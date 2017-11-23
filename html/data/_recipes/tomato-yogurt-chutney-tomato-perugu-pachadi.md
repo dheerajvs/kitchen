@@ -18,29 +18,33 @@ recipeIngredient: |-
    - 1 inch piece finely grated
   - Turmeric powder
    - 1/4 tsp
-  - Dry red chillies
-   - 2 nos. broken into 2 pieces
+  - Vegetable oil
+   - 2 tsp
+  - Uradhal
+   - 1 tsp
   - Mustard seeds
    - 1/2 tsp
   - Jeera / Cumin seeds
    - 1/2 tsp
-  - Vegetable oil
-   - 2 tsp
+  - Dry red chillies
+   - 2 nos. broken into 2 pieces
   - Curry leaves
    - 10-12 leaves
   - Coriander leaves
    - For garnishing
   - Salt
    - As per taste
-recipeInstructions: >+
+recipeInstructions: >
   # Procedure
 
   * Heat oil in a pan. 
 
-  * Add mustard seeds, when mustard seeds splutter, add jeera and wait till it
-  turns out golden brown.
+  * Add uradhal and wait till it turns golden brown.
 
-  * Add dry red chillies, green chilli and curry leaves.
+  * Add mustard seeds and let the mustard seeds splutter, once it start to
+  starts spluttering add jeera.
+
+  * Add dry red chillies, green chilli and curry leaves. Let them become crispy.
 
   * Now add the chopped tomatoes along with ginger, salt and turmeric powder.
 
@@ -48,7 +52,7 @@ recipeInstructions: >+
 
   * Remove from heat and keep it aside to cool.
 
-  * Meanwhile beat the yogurt till it is smooth.
+  * Meanwhile beat the thick sour yogurt till it is smooth.
 
   * Add the prepared tomato mixture to the yogurt and mix well.
 
@@ -70,6 +74,6 @@ recipeInstructions: >+
   pieces, let them cook in the pan or pre-cook in cooker
 
   * Fresh grated coconut can be added raw to the curd. No need to cook
-
 ---
+
 
