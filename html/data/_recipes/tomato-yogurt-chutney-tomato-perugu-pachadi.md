@@ -1,6 +1,6 @@
 ---
 title: Tomato Yogurt Chutney / Tomato Perugu Pachadi
-author: Sowmya B A
+author: Rajyashri V
 datePublished: 2017-11-23T07:39:00.723Z
 description: Tomato perugu pachadi is an Andhra style seasoned yogurt with tomatoes.
 image: /img/Tomato-Perugu-Pachadi.jpg
@@ -75,5 +75,6 @@ recipeInstructions: >
 
   * Fresh grated coconut can be added raw to the curd. No need to cook
 ---
+
 
 
