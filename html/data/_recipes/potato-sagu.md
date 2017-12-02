@@ -56,16 +56,18 @@ recipeInstructions: >-
 
   * Add onion and saute till it turns translucent.
 
-  * Add tomatoes and turmeric powder. Saute till the tomatoes are cooked to a
-  very smooth consistency. This may take about 2-3 minutes.
+  * Add tomatoes, grated ginger and turmeric powder. Saute till the tomatoes are
+  cooked to a very smooth consistency. This may take about 2-3 minutes.
 
   * Finally add boiled and mashed potatoes to the pan and mix well.
 
   * Add about 100ml water and get it to boil. You can alter the water
   consistency if you find it thick.
 
-  * Finally garnish with finely chopped fresh coriander leaves. * Potato Sagu is
-  ready to be served hot with Plaib Idlis, Rava Idlis, Poori, Chapati.
-    
+  * Finally garnish with finely chopped fresh coriander leaves.
+
+  * Potato Sagu is ready to be served hot with Plaib Idlis, Rava Idlis, Poori,
+  Chapati.
 ---
+
 
