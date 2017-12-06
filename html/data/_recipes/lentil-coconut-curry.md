@@ -3,8 +3,8 @@ title: Lentil Coconut Curry
 author: Rajyashri V
 datePublished: 2017-12-06T05:25:42.282Z
 description: >-
-  Lentil coconut curry is an easy to make Indian curry rich in carbohydrates and
-  fiber.
+  Lentil Coconut Curry is an easy to make dry and sweetish Indian curry rich in
+  carbohydrates and fiber.
 image: /img/Lentil-Coconut-Curry.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '30'
@@ -74,4 +74,5 @@ recipeInstructions: >-
   or jeera powder or grated ginger etc. to spicy it up. I love it with green
   chillies and grated ginger.
 ---
+
 
