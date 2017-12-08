@@ -1,5 +1,5 @@
 ---
-title: Beetroot Curry (Dry)
+title: Stir Fried Beetroot Curry (Dry)
 author: Sowmya B A
 datePublished: 2017-12-08T12:16:57.198Z
 description: >-
@@ -62,4 +62,5 @@ recipeInstructions: >-
   * Stir fried dry beetroot curry is ready to be eaten with rice, rotis or
   Poori.
 ---
+
 
