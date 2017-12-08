@@ -4,7 +4,7 @@ author: Sowmya B A
 datePublished: 2017-12-08T13:31:21.131Z
 description: >-
   Stir fried bitter guard curry dry is a healthy South Indian Curry, can be had
-  with rice and rotis.
+  with rice or rotis.
 image: /img/Stir-Fried-BitterGourd-Curry.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '30'
@@ -38,7 +38,7 @@ recipeIngredient: |-
    - Half lemon size, powdered and diluted with 1 tbsp of water
   - Tamarind paste (Optional)
    - 1 tsp.
-recipeInstructions: >+
+recipeInstructions: >
   # Procedure
 
   * Finely wash bitter guard and chop them into small pieces
@@ -69,6 +69,6 @@ recipeInstructions: >+
 
   * Stir fried dry bitter guard curry is ready to be eaten with rice or rotis.
   You can relish it by adding some ghee with it.
-
 ---
+
 
