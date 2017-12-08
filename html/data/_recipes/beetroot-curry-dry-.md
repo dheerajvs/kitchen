@@ -11,24 +11,24 @@ totalTimeMinutes: '30'
 recipeYield: '2'
 recipeIngredient: |-
   - Beetroot
-   - 1 medium sized, washed, peeled and finely chopped
+   - 1 medium sized, washed, peeled and finely chopped / grated
   - Onion
    - 1 medium sized, finely chopped
   - Green Chilli
    - 2, finely chopped
   - Curry Leaves
    - 8-10 leaves
-  - Fresh grated coconut
+  - Fresh Grated Coconut
    - 2 tbsp
-  - Fresh coriander 
+  - Fresh Coriander 
    - 1 tbsp, finely chopped
-  - Channa dal
+  - Channa Dal
    - 2 tsp
-  - Urad dal
+  - Urad Dal
    - 1 tsp
   - Mustard
    - 1 tsp
-  - Sambar powder
+  - Sambar Powder (Optional)
    - 1 tsp
   - Cooking Oil
    - 1 tbsp
@@ -37,7 +37,8 @@ recipeIngredient: |-
 recipeInstructions: >-
   # Procedure
 
-  * Cleanly wash the beetroot, peel the skin and chop it into small pieces.
+  * Cleanly wash the beetroot, peel the skin and chop it into small pieces or
+  grate it.
 
   * In a frying pan, heat oil, add channa dal and wait for 10 seconds with
   stirring. Add urad dal and keep stirring till the dals turn golden brown.
@@ -53,14 +54,15 @@ recipeInstructions: >-
   pan, for the beetroot to cook. Occasionally, open the lid and keep stirring.
   Do this till beetroot is well cooked. It may take about 15 minutes.
 
-  * Once the beetroot is cooked, add sambar powder. Mix it well, and cook for
-  about a minute, so that the flavor is well absorbed. Note: Do not add any
-  water, beetroot cooks with the moisture in it.
+  * Once the beetroot is cooked, add sambar powder if you prefer. Mix it well,
+  and cook for about a minute, so that the flavor is well absorbed. Turn off the
+  heat. Note: Do not add any water, beetroot cooks with the moisture in it.
 
   * Finally garnish with grated coconut, chopped fresh coriander.
 
   * Stir fried dry beetroot curry is ready to be eaten with rice, rotis or
   Poori.
 ---
+
 
 
