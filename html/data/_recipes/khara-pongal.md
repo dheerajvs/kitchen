@@ -3,7 +3,7 @@ title: Khara Pongal
 author: Sowmya B A
 datePublished: 2017-07-05T06:03:20.076Z
 description: 'Healthy, spicy South Indian easy to do, rice with moong dhal breakfast.'
-image: /img/Kara-Pongal.jpg
+image: /img/Khara-Pongal.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '20'
 recipeYield: '4'
@@ -56,5 +56,6 @@ recipeInstructions: >-
 
   * Khara Pongal is ready to be served warm.
 ---
+
 
 
