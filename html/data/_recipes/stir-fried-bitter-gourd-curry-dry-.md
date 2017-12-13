@@ -1,5 +1,5 @@
 ---
-title: Stir Fried Bitter Gourd Curry (Dry)
+title: Bitter Gourd Curry (Stir Fried - Dry)
 author: Sowmya B A
 datePublished: 2017-12-08T13:31:21.131Z
 description: >-
@@ -70,6 +70,7 @@ recipeInstructions: >
   * Stir fried dry bitter guard curry is ready to be eaten with rice or rotis.
   You can relish it by adding some ghee with it.
 ---
+
 
 
 
