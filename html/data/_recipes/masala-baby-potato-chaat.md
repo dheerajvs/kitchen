@@ -32,7 +32,7 @@ recipeIngredient: |-
    - 8-10 leaves
   - Fresh Coriander (Optional)
    - 2 tsp, chopped
-recipeInstructions: >+
+recipeInstructions: >
   # Procedure
 
   * Wash the potatoes and do not peel the skin. Pressure cook it for just 1
@@ -40,8 +40,8 @@ recipeInstructions: >+
   note, not to cook it for long as they will rupture to pieces when fried. Once
   cooked drain out the water and transfer the potatoes to a plate.
 
-  * Using spatula gently press the semi cooked potatoes, so that they rupture
-  but not break to pieces.
+  * Using spatula gently press and flatten the semi cooked potatoes, so that
+  they rupture but not break to pieces.
 
   * Heat oil in a non-stick pan. When the oil is hot add curry leaves. Once the
   curry leaves becomes crispy, add the baby potatoes and cook on low heat for
@@ -63,6 +63,6 @@ recipeInstructions: >+
 
   * If baby potatoes are not available, you can use any sized potatoes. Just cut
   them into bite size pieces.
-
 ---
+
 
