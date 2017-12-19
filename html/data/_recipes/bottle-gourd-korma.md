@@ -68,7 +68,19 @@ recipeInstructions: >-
   gourd, close the lid of the pan and cook for 5 minutes. 
 
   * Garnish with chopped fresh coriander and serve hot with tawa roti or rice.
+
+
+  # Tips
+
+  * You can use Sweet Pumpkin or Chow-Chow / Chayote, Ridge Gourd, Zucchini,
+  Yellow Squash.
+
+  * Can add a couple of cashew nuts while grinding to get a creamy sweet taste.
+
+  * Korma can be kept white in color by adding green and yogurt instead of
+  chilly powder, turmeric and tomato. 
 ---
+
 
 
 
