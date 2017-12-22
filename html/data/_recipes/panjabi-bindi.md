@@ -1,9 +1,9 @@
 ---
-title: Panjabi Bhindi
+title: Punjabi Bhindi (Stir Fried Dry Curry)
 author: Sowmya B A
 datePublished: 2017-07-04T13:05:23.613Z
 description: 'Spicy, stir fried, dry saute okra curry '
-image: /img/Tomato-Soup.jpg
+image: /img/Punjabi-Bhindi.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '30'
 recipeYield: '3'
@@ -39,6 +39,7 @@ recipeIngredient: |-
 recipeInstructions: >-
   # Procedure
 
+
   * Heat 1/2 tbsp oil in a pan, add the cut okra and saute on low to medium
   flame for about 8-10 minutes till all the gluey substance from okra is
   removed. Remove the okra from the vessel and keep aside.
@@ -71,6 +72,7 @@ recipeInstructions: >-
 
   * Can be had with rice, rotis, dosas or just as it is.
 ---
+
 
 
 
