@@ -1,5 +1,5 @@
 ---
-title: Gooseberry Pickle - Instant
+title: Gooseberry Pickle (Instant Variety)
 author: Sowmya B A
 datePublished: 2017-12-13T16:32:07.804Z
 description: >-
@@ -72,4 +72,5 @@ recipeInstructions: >-
   * The instant gooseberry pickles stays good for around a month, if stored in
   an air tight container and refrigerated.
 ---
+
 
