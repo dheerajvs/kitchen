@@ -1,5 +1,5 @@
 ---
-title: Punjabi Bhindi (Stir Fried Dry Curry)
+title: Punjabi Bhindi (Stir Fried - Dry Curry)
 author: Sowmya B A
 datePublished: 2017-07-04T13:05:23.613Z
 description: 'Spicy, stir fried, dry saute okra curry '
@@ -72,6 +72,7 @@ recipeInstructions: >-
 
   * Can be had with rice, rotis, dosas or just as it is.
 ---
+
 
 
 
