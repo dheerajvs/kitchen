@@ -94,6 +94,9 @@ recipeInstructions: >
   * Before adding water, you can opt to add 1/2 tsp of Garam Masala and saute it
   well for 10 seconds.
 
-  * It can be enjoyed with kesari bath.
+  * Khara Bhath can be relished with coconut chutney.
+
+  * Khara Bhath is generally complimented with kesari bath.
 ---
+
 
