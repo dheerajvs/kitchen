@@ -3,7 +3,7 @@ title: Kesari Bhath
 author: Sowmya B A
 datePublished: 2017-12-26T13:29:31.119Z
 description: >-
-  Kesari Bhath is a popular South Indian sweet dish made from semolina usually
+  Kesari Bhath is a popular South Indian sweet dish made from semolina. Usually
   had for breakfast or tea time snacks.
 image: /img/Kesari-Bhath.jpg
 totalTimeHours: '0'
@@ -26,7 +26,7 @@ recipeIngredient: |-
    - 2 nos.
   - Saffron Water or Orange / yellow food color
    - 1 tsp
-recipeInstructions: >+
+recipeInstructions: >
   # Procedure
 
   * Soak 5-6 strands of saffron in 2 tbsp of warm water for 15 minutes. Dissolve
@@ -71,6 +71,6 @@ recipeInstructions: >+
 
   * You can use 1 finely chopped small banana or 2 tbsp of finely chopped
   pineapple before adding sugar.
-
 ---
+
 
