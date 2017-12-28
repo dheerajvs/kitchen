@@ -3,8 +3,8 @@ title: Vegetable Upma
 author: Sowmya B A
 datePublished: 2017-12-24T16:15:12.618Z
 description: >-
-  Healthy South Indian breakfast or tea time snacks. Popularly called Khara
-  Bhath
+  Healthy South Indian breakfast or tea time snacks made of semolina. Popularly
+  called Khara Bhath.
 image: /img/Vegetable-Upma.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '30'
@@ -98,5 +98,6 @@ recipeInstructions: >
 
   * Khara Bhath is generally complimented with kesari bath.
 ---
+
 
 
