@@ -1,5 +1,5 @@
 ---
-title: Raw Jackfruit Chops
+title: Raw Jack-Fruit Chops (Gravy)
 author: Sowmya B A
 datePublished: 2018-01-01T16:19:59.232Z
 description: South Indian spicy gravy made of raw jack-fruit. Generally enjoyed with rice.
@@ -74,4 +74,5 @@ recipeInstructions: >-
 
   * Can use raw banana instead of raw jack-fruit
 ---
+
 
