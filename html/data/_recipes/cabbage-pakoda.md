@@ -3,7 +3,7 @@ title: Cabbage Pakoda
 author: Sowmya B A
 datePublished: 2016-10-07T00:00:00.000Z
 description: 'Spicy fried crisp fritters made with cabbage, onion, gram flour and spices.'
-image: cabbage-pakoda.jpg
+image: /img/Cabbage-Pakoda.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '30'
 recipeYield: 3-4 servings
@@ -64,4 +64,5 @@ recipeInstructions: >-
   * Serve the cabbage pakodas hot with tomato ketchup or mint coriander chutney
   and sweet tamarind chutney.
 ---
+
 
