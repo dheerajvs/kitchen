@@ -3,7 +3,7 @@ title: Onion Raita
 author: Sowmya B A
 datePublished: 2018-01-02T09:22:49.922Z
 description: Raita generally had as a starter or side dish along with spicy main course.
-image: /img/Raita.jpg
+image: /img/Onion-Raita.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '10'
 recipeYield: 4-5
@@ -35,5 +35,6 @@ recipeInstructions: >-
   * The raita is ready to be served with palov, birayani, besi bele bath or as
   is.
 ---
+
 
 
