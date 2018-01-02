@@ -88,5 +88,11 @@ recipeInstructions: >-
 
   * Besi Bele Bath is ready to be eaten any time of the day, either for
   breakfast, lunch or dinner.
+
+
+  # Tips
+
+  * Can be relished with Khara Boondhi or Onion-Cucumber-Tomato Raitha
 ---
+
 
