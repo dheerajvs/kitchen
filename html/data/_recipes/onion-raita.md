@@ -9,7 +9,7 @@ totalTimeMinutes: '10'
 recipeYield: 4-5
 recipeIngredient: |-
   - Onion
-   - 1 medium sized, finely chopped
+   - 1 big sized, finely chopped
   - Tomato
    - 1 small sized, finely chopped
   - Cucumber
@@ -35,4 +35,5 @@ recipeInstructions: >-
   * The raita is ready to be served with palov, birayani, besi bele bath or as
   is.
 ---
+
 
