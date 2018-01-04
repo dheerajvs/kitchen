@@ -12,6 +12,8 @@ recipeYield: '2'
 recipeIngredient: |
   - Potatoes
    - 3 nos. medium sized
+  - Fresh Green Peas (Optional)
+   - 1/4th cup or less
   - Onion
    - 1 no. medium sized, finely chopped
   - Tomato
@@ -46,6 +48,9 @@ recipeInstructions: >-
   water for about 5 whistles in a pressure cooker. Peel the skin of the cooked
   potatoes and mash it to the size of small lumps. Note: Do not make it powdery.
 
+  * If you decide to add fresh green peas, that also needs to be pressure
+  cooked. It can be cooked along with potatoes in a separate vessel. 
+
   * In a wide cooking pan, heat the oil, add channa dhal. After about 5-6
   seconds add uradhal and wait till it turns golden brown.
 
@@ -59,7 +64,8 @@ recipeInstructions: >-
   * Add tomatoes, grated ginger and turmeric powder. Saute till the tomatoes are
   cooked to a very smooth consistency. This may take about 2-3 minutes.
 
-  * Finally add boiled and mashed potatoes to the pan and mix well.
+  * Finally add boiled and mashed potatoes to the pan and mix well. If you are
+  adding green peas, it can be added along with mashed potato.
 
   * Add about 100ml water and get it to boil. You can alter the water
   consistency if you find it thick.
@@ -69,6 +75,7 @@ recipeInstructions: >-
   * Potato Sagu is ready to be served hot with Plaib Idlis, Rava Idlis, Poori,
   Chapati.
 ---
+
 
 
 
