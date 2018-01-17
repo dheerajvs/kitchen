@@ -1,5 +1,5 @@
 ---
-title: Cucumber Corn Salad
+title: Cucumber with Sweet Corn Salad
 author: Sowmya B A
 datePublished: 2018-01-17T13:55:22.259Z
 description: 'An healthy appetizer, can be had anytime of the day.'
@@ -7,7 +7,27 @@ image: /img/Cucumber-Corn-Salad.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '15'
 recipeYield: 4-5
-recipeIngredient: "- Cucumber\n - 1 no., peeled, de-seeded and finely chopped\n- Tomato\n - 1 no. medium sized, de-seeded and finely chopped\n- Fresh corn / Frozen corn\n - 1 cup, par-boiled\n- Lime Juice\n - 1 tbsp\n- Black Pepper Corn\n - 8-10 nos.\n- Fresh Basil / Sage / Origano / Mint / Cilantro leaves\n - 8-10 leaves, finely chopped\n- Pink Onion (Optional)\r\n - 1 medium sized, finely chopped\r\n- Paprika Sweet Pepper (Optional)\r\n - 1 no., finely chopped\n- Olive oil (Optional)\n - 1 tbsp\n- Salt\n - As per taste"
+recipeIngredient: |-
+  - Cucumber
+   - 1 no., peeled, de-seeded and finely chopped
+  - Tomato or Cheery Tomatoes
+   - 1 no. medium sized, de-seeded and finely chopped. If using cherry tomatoes, 8-10 nos. of it. Just cut them to 4 pieces each
+  - Fresh corn / Frozen corn
+   - 1 cup, par-boiled
+  - Lime Juice
+   - 1 tbsp
+  - Black Pepper Corn
+   - 8-10 nos.
+  - Fresh Basil / Sage / Origano / Mint / Cilantro leaves
+   - 8-10 leaves, finely chopped
+  - Pink Onion (Optional)
+   - 1 medium sized, finely chopped
+  - Paprika Sweet Pepper (Optional)
+   - 1 no., finely chopped
+  - Olive oil (Optional)
+   - 1 tbsp
+  - Salt
+   - As per taste
 recipeInstructions: >
   # Procedure
 
@@ -16,4 +36,5 @@ recipeInstructions: >
   * The salad is ready t eat as is, or can refrigerate for about an hour before
   serving.
 ---
+
 
