@@ -16,6 +16,7 @@ recipeIngredient: |-
    - 1 tbsp
   - Salt
    - 2 tsp or As per taste
-recipeInstructions: "# Procedure\n* Take water in a thick bottom, slightly deep pot (preferably nonstick\\) and let it come to a boil. \_Once the water starts boiling, add the salt and oil.\_"
+recipeInstructions: "# Procedure\n* Take water in a slightly deep thick bottom pan and let it come to a boil. Once the water starts boiling, add the salt and oil.\n* ....Need to update....\_"
 ---
+
 
