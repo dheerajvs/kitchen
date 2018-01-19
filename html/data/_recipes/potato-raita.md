@@ -3,8 +3,8 @@ title: Potato Raita
 author: Sowmya B A
 datePublished: 2018-01-19T06:44:00.970Z
 description: >-
-  Potato Raita a simple side dish or a light meal that can be had anytime of the
-  day.
+  Potato Raita, a simple side dish or a light meal that can be had anytime of
+  the day.
 image: /img/Potato-Raita.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '30'
@@ -32,7 +32,7 @@ recipeIngredient: |-
    - 1/4 tsp
   - Curry leaves
    - 8-10 leaves
-recipeInstructions: >+
+recipeInstructions: >
   # Procedure
 
   * Cook potatoes and allow it to cool down. If you are using big potatoes, cut
@@ -53,6 +53,6 @@ recipeInstructions: >+
   * Now add curds and salt. Mix them.
 
   * Garnish with coriander / dill leaves and chat masala.
-
 ---
+
 
