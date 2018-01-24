@@ -1,5 +1,5 @@
 ---
-title: Moong Dal Kosambari
+title: Kosambari
 author: Sowmya B A
 datePublished: 2017-09-02T15:45:39.876Z
 description: Kosambari is a popular festive time salad of south India.
@@ -8,7 +8,7 @@ totalTimeHours: '0'
 totalTimeMinutes: '25'
 recipeYield: '4'
 recipeIngredient: |-
-  - Moong dal or channa dal
+  - Moong dal or Channa dal
    - 50 gms, washed 2-3 times and soaked in 200ml water for 20 minutes
   - Fresh Ginger
    - 1 inch, finely grated
