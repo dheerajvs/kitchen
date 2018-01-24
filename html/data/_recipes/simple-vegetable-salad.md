@@ -2,7 +2,7 @@
 title: Simple Vegetable Salad
 author: Sowmya B A
 datePublished: 2018-01-24T15:48:27.396Z
-description: 'Simple to do nutritious appetizer, that can be had anytime of the day.'
+description: 'Simple nutritious appetizer, that can be had anytime of the day.'
 image: /img/Simple-Vegetable-Salad.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '15'
@@ -40,4 +40,5 @@ recipeInstructions: >-
 
   * The salad can be had for 2-3 days by keeping in refrigerator.
 ---
+
 
