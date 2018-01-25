@@ -2,7 +2,7 @@
 title: Sprouted Green Gram Salad
 author: Sowmya B A
 datePublished: 2018-01-24T13:58:52.555Z
-description: Easy to make popular Karnataka style kosambari
+description: Easy to make popular Karnataka style kosambari an appetizer
 image: /img/Sprouted-GreenGram-Salad.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '10'
@@ -32,9 +32,7 @@ recipeIngredient: |-
    - 5-6 leaves
   - Cooking Oil
    - 1 tsp
-recipeInstructions: >+
-  # Procedure
-
+recipeInstructions: >
   * In a big bowl mix sprouted green gram, grated carrot, pomegranate, green
   chilies, grated coconut, coriander leaves, salt and lemon juice.
 
@@ -50,6 +48,6 @@ recipeInstructions: >+
 
   * If you are serving salad after a while, then don't add salt and keep, the
   salad will become watery. Add salt only while serving and mix.
-
 ---
+
 
