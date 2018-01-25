@@ -3,8 +3,8 @@ title: Lemon Cucumber Chutney
 author: Sowmya B A
 datePublished: 2017-07-06T07:48:03.253Z
 description: >-
-  Lemon Cucumber Chutney / Dosakaya Pachadi is a mild tangy and spicy popular
-  Andhra chutney 
+  Lemon Cucumber Chutney also known as Dosakaya Pachadi is a mild, tangy and
+  spicy chutney very popular of Andhra.
 image: /img/Lemon-Cucumber-Chutney.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '15'
@@ -64,5 +64,6 @@ recipeInstructions: >-
   * Ensure that the yellow cucumber is not bitter. The pickle does not taste
   good with bitter cucumber.
 ---
+
 
 
