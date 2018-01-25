@@ -27,14 +27,13 @@ recipeIngredient: |-
   - Salt
    - As per taste 
 recipeInstructions: >-
-  # Procedure
-
   * In a bowl, add all the ingredients, mix well and mash it well so that the
   vegetables leave out juice.
 
   * The raita is ready to be served with palov, birayani, besi bele bath or as
   is.
 ---
+
 
 
 
