@@ -33,8 +33,6 @@ recipeIngredient: |-
   - Curry leaves
    - 8-10 leaves
 recipeInstructions: >
-  # Procedure
-
   * Cook potatoes and allow it to cool down. If you are using big potatoes, cut
   them to small cubes.
 
@@ -54,5 +52,6 @@ recipeInstructions: >
 
   * Garnish with coriander / dill leaves and chat masala.
 ---
+
 
 
