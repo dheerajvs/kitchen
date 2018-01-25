@@ -41,8 +41,6 @@ recipeIngredient: |-
   - Fresh Coriander Leaves
    - 1 tbsp
 recipeInstructions: >
-  # Procedure
-
   * Pressure cook potatoes to soft for 3-4 whistles, remove the peel and mash it
   coarsely. Keep aside.
 
@@ -69,4 +67,5 @@ recipeInstructions: >
   * Garnish with freshly chopped coriander and serve it hot either with dosa,
   tawa rotis, poori or as a side dish with plain rice.
 ---
+
 
