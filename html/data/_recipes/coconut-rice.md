@@ -39,8 +39,6 @@ recipeIngredient: |
   - Fresh coriander leaver
    - 1 tbsp.
 recipeInstructions: >-
-  # Procedure
-
   * Cook rice in a regular way, ensure that rice is grainy.
 
   * Heat ghee in a pan, add cashews and roast till it turns golden brown. Add
@@ -55,4 +53,5 @@ recipeInstructions: >-
   * Coconut rice is ready to be served hot or cold for breakfast, lunch or
   dinner.
 ---
+
 
