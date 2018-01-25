@@ -27,8 +27,6 @@ recipeIngredient: |-
   - Saffron Water or Orange / yellow food color
    - 1 tsp
 recipeInstructions: >
-  # Procedure
-
   * Soak 5-6 strands of saffron in 2 tbsp of warm water for 15 minutes. Dissolve
   to get saffron water. 
 
@@ -72,5 +70,6 @@ recipeInstructions: >
   * You can use 1 finely chopped small banana or 2 tbsp of finely chopped
   pineapple before adding sugar.
 ---
+
 
 
