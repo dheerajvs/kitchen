@@ -62,8 +62,6 @@ recipeIngredient: |-
   - Fresh Coriander leaves
    - 1 tbsp, finely chopped
 recipeInstructions: >-
-  # Procedure
-
   * For Besi Bele Bath Powder: You can use ready MTR or Maiya's Besi Bele Bath
   Powder or Dry roast masala items one after the other in a pan Cinnamon, Clove,
   Channa Dal, Urad Dal, Feenugreek, Coriander Seeds, Red Chili, Cumin Seeds,
@@ -94,5 +92,6 @@ recipeInstructions: >-
 
   * Can be relished with Khara Boondhi or Onion-Cucumber-Tomato Raitha
 ---
+
 
 
