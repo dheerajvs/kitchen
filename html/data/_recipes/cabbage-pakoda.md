@@ -39,8 +39,6 @@ recipeIngredient: |-
   - Vegetable oil
    - 1/2 liter
 recipeInstructions: >-
-  # Preparations
-
   * In a bowl, add cabbage, onions, green chilies, ginger, turmeric powder, red
   chili powder, jeera powder, fresh coriander leaves, asafoetida and lemon juice
   if you wish to add. Salt as required.
@@ -64,6 +62,7 @@ recipeInstructions: >-
   * Serve the cabbage pakodas hot with tomato ketchup or mint coriander chutney
   and sweet tamarind chutney.
 ---
+
 
 
 
