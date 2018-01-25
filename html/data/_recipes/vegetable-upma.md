@@ -45,8 +45,6 @@ recipeIngredient: |-
   - Ghee Fried Cashew-nuts (Optional)
    - 10-12 nos.
 recipeInstructions: >
-  # Procedure
-
   * Heat 1 tsp of oil in a cooking pan and roast the rava for about 5 minutes in
   low flame till it gives out a nice aroma. Transfer the rave to a plate and set
   it aside.
@@ -98,6 +96,7 @@ recipeInstructions: >
 
   * Khara Bhath is generally complimented with kesari bath.
 ---
+
 
 
 
