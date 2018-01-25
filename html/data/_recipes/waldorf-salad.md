@@ -30,8 +30,6 @@ recipeIngredient: |-
   - Lettuce
    - 2-3 leaves
 recipeInstructions: >-
-  # Procedure
-
   * Drizzle lime juice over apple cubes and toss well, so that the lime juice
   gets coated well. This will prevent cut apples from de-coloring to brownish.
 
@@ -43,4 +41,5 @@ recipeInstructions: >-
 
   * Waldorf salad is ready to be served as an appetizer or as a light meal
 ---
+
 
