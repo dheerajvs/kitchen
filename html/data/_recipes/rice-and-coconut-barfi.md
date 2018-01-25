@@ -1,5 +1,5 @@
 ---
-title: Rice Coconut Steamed Barfi
+title: Rice with Coconut Steamed Barfi
 author: Sowmya B A
 datePublished: 2017-08-29T07:42:17.080Z
 description: >-
@@ -23,8 +23,6 @@ recipeIngredient: |-
   - Water
    - 150 ml
 recipeInstructions: >-
-  # Procedure
-
   * Wash the raw rice nicely and soak it in water for 2 hours
 
   * In a blender, add the soaked rice without water, grated coconut, cardamom,
@@ -41,5 +39,6 @@ recipeInstructions: >-
 
   * Rice Coconut barfi can be eaten anytime of the day
 ---
+
 
 
