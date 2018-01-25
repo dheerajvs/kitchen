@@ -35,8 +35,6 @@ recipeIngredient: |-
   - Garlic (Optional)
    - 5-6 pods, pealed and crushed
 recipeInstructions: >-
-  # Procedure
-
   * Wash and steam the gooseberry for about 10 minutes on low flame in about
   200ml water, till they open by itself. Once they start to open up turn off the
   burner and allow it to cool completely. Once the gooseberries are cooled,
@@ -72,5 +70,6 @@ recipeInstructions: >-
   * The instant gooseberry pickles stays good for around a month, if stored in
   an air tight container and refrigerated.
 ---
+
 
 
