@@ -27,8 +27,6 @@ recipeIngredient: |-
   - Saffron (Optional)
    - 5-6 strands
 recipeInstructions: >
-  # Procedure
-
   - In a pressure cooker, add 1 tsp of ghee and roast the sabudana till they are
   puffed fully like pop-corn.
 
@@ -49,4 +47,5 @@ recipeInstructions: >
   - Sabudana kheer is ready to be served as dessert. It can either be served hot
   or cold.
 ---
+
 
