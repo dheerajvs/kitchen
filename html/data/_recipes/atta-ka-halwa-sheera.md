@@ -1,33 +1,33 @@
 ---
-title: Atta Ka Halwa
+title: Wheat Flour Halwa
 author: Sowmya B A
 datePublished: 2017-11-07T12:31:53.146Z
 description: >-
-  A smooth sweet pudding made with whole wheat flour, a popular North Indian
-  dessert.
+  Wheat Flour Halwa also know as "Atta ka Halwa" a smooth sweet pudding made
+  with whole wheat flour, a popular North Indian dessert.
 image: /img/Atta-Halwa.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '30'
 recipeYield: '4'
 recipeIngredient: |-
-  * Wheat
-  * 1 cup
-  * Ghee
-  * 4 tbsp (1/2 cup)
-  * Sugar or Honey
-  * 1 cup
-  * Water
-  * 2 cups (Optional)
-  * Rava / Sooji
-  * 1/4 cup to add texture
-  * Cashews (Optional)
-  * 20
-  * Raisins (Optional)
-  * 10 nos.
-  * Almonds (Optional)
-  * 2 tbsp sliced
-  * Pista (Optional)
-  * 1 tbsp sliced
+  - Wheat flour
+   - 1 cup
+  - Ghee
+   - 4 tbsp (1/2 cup)
+  - Sugar or Honey
+   - 1 cup
+  - Water
+   - 2 cups (Optional)
+  - Rava i.e Semolina
+   - 1/4 cup to add texture
+  - Cashews (Optional)
+   - 20
+  - Raisins (Optional)
+   - 10 nos.
+  - Almonds (Optional)
+   - 2 tbsp sliced
+  - Pista (Optional)
+   - 1 tbsp sliced
 recipeInstructions: >-
   * Boil water in a pan over medium heat. Add sugar when the water gets to boil.
   Bring the syrup to full boil and mix it well making sure sugar is dissolved,
