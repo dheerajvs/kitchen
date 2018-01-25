@@ -3,7 +3,7 @@ title: Carrot Kheer
 author: Sowmya B A
 datePublished: 2017-07-03T07:08:47.503Z
 description: 'Tasty, easy to make healthy South Indian dessert'
-image: /img/Tomato-Soup.jpg
+image: /img/Carrot-Kheer.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '20'
 recipeYield: '4'
@@ -44,10 +44,8 @@ recipeInstructions: >
 
   * Get the kheer to boil and turn off the burner.
 
-  * For tempering, take a small and add ghee. 
-
-  * Once the ghee heats up, add cashew and fry till golden brown. Now add the
-  raisins to the ghee and turn off the burner.
+  * For tempering: Heat ghee in a tempering pan, add cashew and fry till golden
+  brown. Now add the raisins to the ghee and turn off the burner.
 
   * Add the tempering to the kheer.
 
@@ -55,8 +53,9 @@ recipeInstructions: >
   10 minutes and add it to the kheer and mix well. 
 
   * Carrot Kheer is ready to be served hot. Alternatively you can chill the
-  kheer before serving. 
+  kheer before serving.
 ---
+
 
 
 
