@@ -23,8 +23,8 @@ recipeIngredient: |-
   - Salt
    - As per taste
 recipeInstructions: |-
-  # Procedure
   * Mix all the ingredients in a bowl.
   * Refrigerate for an hour or can be eaten immediately at room temperature.
 ---
+
 
