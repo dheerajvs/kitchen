@@ -44,8 +44,6 @@ recipeIngredient: |-
   - Bay Leaf
    - 1 nos.
 recipeInstructions: >-
-  # Preparations
-
   * Heat ghee in a thick bottomed pan or pressure cooker. keep the flame on a
   low.
 
@@ -80,5 +78,6 @@ recipeInstructions: >-
   finely chopped coriander leaves. Ghee rice tastes so good, that you can even
   have it plain without any accompanying curry or dal or vegetable korma.
 ---
+
 
 
