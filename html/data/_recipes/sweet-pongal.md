@@ -3,7 +3,7 @@ title: Sweet Pongal
 author: Sowmya B A
 datePublished: 2018-01-16T16:52:18.620Z
 description: >-
-  Sweet Pongal is a delicay made of Rice, dhal, ghee and Jaggery. Its a must do
+  Sweet Pongal is a delicacy made of rice, dhal, ghee and jaggery. Its a must do
   dish during Makar Sankranti festival.
 image: /img/Sweet-Pongal.jpg
 totalTimeHours: '0'
@@ -31,8 +31,6 @@ recipeIngredient: |-
   - Edible Camphor (Optional)
    - Just a small pinch, it has a strong taste so take care not to add more.
 recipeInstructions: >
-  # Procedure
-
   * Dry roast rice till it turns hot to touch. Keep aside.
 
   * Dry roast dal until it gives out a nice aroma. It need not turn golden
@@ -61,4 +59,5 @@ recipeInstructions: >
 
   * Mix well and serve it hot.
 ---
+
 
