@@ -1,5 +1,5 @@
 ---
-title: Atta Ka Halwa / Sheera
+title: Atta Ka Halwa
 author: Sowmya B A
 datePublished: 2017-11-07T12:31:53.146Z
 description: >-
@@ -29,9 +29,6 @@ recipeIngredient: |-
   * Pista (Optional)
   * 1 tbsp sliced
 recipeInstructions: >-
-  # Procedure
-
-
   * Boil water in a pan over medium heat. Add sugar when the water gets to boil.
   Bring the syrup to full boil and mix it well making sure sugar is dissolved,
   and turn off the heat. Set aside. 
@@ -58,4 +55,5 @@ recipeInstructions: >-
 
   * Atta pudding is ready to be eaten as dessert or anytime of the day.
 ---
+
 
