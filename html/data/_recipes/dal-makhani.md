@@ -44,8 +44,6 @@ recipeIngredient: |-
   - Salt
    - As per taste
 recipeInstructions: >-
-  # Preparations
-
   * Soak brown lentils for 3-4 hours, if using kidney beans you'll need to soak
   it overnight.
 
@@ -83,6 +81,7 @@ recipeInstructions: >-
 
   * Masoor dal is ready to be served with some basmati rice or rotis.
 ---
+
 
 
 
