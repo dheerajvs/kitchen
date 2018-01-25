@@ -1,5 +1,5 @@
 ---
-title: Bottle Gourd Korma
+title: Bottle Gourd Korma (Gravy)
 author: Sowmya B A
 datePublished: 2017-12-19T13:02:27.226Z
 description: >-
@@ -41,8 +41,6 @@ recipeIngredient: |-
   - Fresh Coriander Leaves
    - 1 tbsp, for garnish
 recipeInstructions: >-
-  # Procedure
-
   * Pressure cook bottle gourd for a single whistle in 100ml of water and 1/2
   tsp salt.
 
@@ -78,8 +76,9 @@ recipeInstructions: >-
   * Can add a couple of cashew nuts while grinding to get a creamy sweet taste.
 
   * Korma can be kept white in color by adding green and yogurt instead of
-  chilly powder, turmeric and tomato. 
+  chilly powder, turmeric and tomato.
 ---
+
 
 
 
