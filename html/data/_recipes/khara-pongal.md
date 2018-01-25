@@ -33,8 +33,6 @@ recipeIngredient: |-
   - Fresh Coriander
    - 2 tsp
 recipeInstructions: >-
-  # Procedure
-
   * Wash the rice and moong dal, and keep aside.
 
   * In a pressure cooker, heat ghee. Roasted the cashew nuts to golden brown,
@@ -56,6 +54,7 @@ recipeInstructions: >-
 
   * Khara Pongal is ready to be served warm.
 ---
+
 
 
 
