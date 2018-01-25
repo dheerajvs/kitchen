@@ -3,8 +3,8 @@ title: Gongura Pachadi
 author: Sowmya B A
 datePublished: 2017-08-31T13:10:54.929Z
 description: >-
-  Gongura pachadi is made using gongura / red sorrel leaves, very popular of
-  Andhra.
+  Gongura pachadi is made using gongura also known as roselle leaves, very
+  popular of Andhra.
 image: /img/Gongura-Pachadi.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '30'
@@ -29,8 +29,6 @@ recipeIngredient: |-
   - Salt
    - As per taste
 recipeInstructions: >-
-  # Procedure
-
   * Pick the leaves from the sorrel stalk and wash it thoroughly. Drain and set
   aside for 10 minutes.
 
@@ -53,4 +51,5 @@ recipeInstructions: >-
 
   * Gongura pachadi is ready to be served with rice or dosa along with ghee.
 ---
+
 
