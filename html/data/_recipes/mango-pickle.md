@@ -1,5 +1,5 @@
 ---
-title: Mango Pickle
+title: Mango Pickle (Instant Variety)
 author: Sowmya B A
 datePublished: 2017-06-01T09:48:05.465Z
 description: Yummy home made spicy mango pickle
@@ -32,19 +32,32 @@ recipeIngredient: |-
    - 6 nos.
   - Asafetida
    - 1/2 tsp
-recipeInstructions: |-
-  # Preparations
+recipeInstructions: >-
   * Chop mangoes to slightly large cubes.
+
   * Heat a pan and get the gingelly oil to hot and let it cool completely.
-  * Dry roast fenugreek and white mustard. Let it cool and then grind it to fine powder.
-  * In a dry bowl, add the chopped mango cubes, red chili powder, methi-mustard powder, turmeric, salt.
+
+  * Dry roast fenugreek and white mustard. Let it cool and then grind it to fine
+  powder.
+
+  * In a dry bowl, add the chopped mango cubes, red chili powder, methi-mustard
+  powder, turmeric, salt.
+
   * Pour oil and mix well. Set aside for 24 to 28 hours.
+
   * Stir mango pickle well and if needed add more salt.
+
   * Store the pickle in a clean dry glass jar.
 
+
   # Tempering
+
   * In a pan heat the oil, then add black mustard, red chili and asafetida.
+
   * Mix the tempering into the jar of mango pickles.
+
   * Keep in refrigerator for longevity.
+
   * Yummy mango pickle is ready to be served with roti or rice
 ---
+
