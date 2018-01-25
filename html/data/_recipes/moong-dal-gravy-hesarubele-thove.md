@@ -1,5 +1,5 @@
 ---
-title: Moong Dal Gravy
+title: Moong Dal Curry (Gravy)
 author: Sowmya B A
 datePublished: 2018-01-17T14:27:02.628Z
 description: >-
@@ -58,5 +58,6 @@ recipeInstructions: >-
   * Garnish with freshly chopped coriander and serve hot with rice, roti or
   idli.
 ---
+
 
 
