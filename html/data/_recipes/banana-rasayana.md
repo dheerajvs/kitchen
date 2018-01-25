@@ -19,8 +19,6 @@ recipeIngredient: |-
   - Ghee
    - 2 tsp.
 recipeInstructions: >-
-  # Preparations
-
   * Cut the bananas into small circular pieces.
 
   * To that add finely powdered cardamom, sugar / jaggery as per choice, melted
@@ -40,5 +38,6 @@ recipeInstructions: >-
   water. Add 3-4 cardamom extract before grinding. Squeeze and extract the
   coconut milk from the grated coconut and add it to the mixture.
 ---
+
 
 
