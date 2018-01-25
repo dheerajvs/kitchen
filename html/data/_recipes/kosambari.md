@@ -2,7 +2,7 @@
 title: Kosambari
 author: Sowmya B A
 datePublished: 2017-09-02T15:45:39.876Z
-description: Kosambari is a popular festive time salad of south India.
+description: Kosambari is a popular festive time salad of South India.
 image: /img/Hesarubele-Kosambari.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '25'
@@ -37,8 +37,6 @@ recipeIngredient: |-
   - Asafoetida (Optional)
    - 1/4 tsp
 recipeInstructions: >-
-  # Procedure
-
   * Drain out the soaked dal and transfer it to a wider vessel.
 
   * Include ginger, green chilies, coriander leaves, coconut, lemon juice
@@ -55,5 +53,6 @@ recipeInstructions: >-
 
   * Kosambari salad is ready to be served.
 ---
+
 
 
