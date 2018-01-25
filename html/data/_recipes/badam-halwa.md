@@ -23,8 +23,6 @@ recipeIngredient: |-
   - Kesari color
    - A pinch for color (optional)
 recipeInstructions: >-
-  # Preparations
-
   * Soak almonds overnight and peel the skin. Alternatively you can boil them in
   hot water for a few minutes and peel the skin.
 
@@ -51,6 +49,7 @@ recipeInstructions: >-
 
   * Once it cools the halwa will thicken.
 ---
+
 
 
 
