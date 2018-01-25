@@ -31,9 +31,6 @@ recipeIngredient: |
   - Salt
    - As per taste
 recipeInstructions: >
-  # Procedure
-
-
   * Take a small frying pan, add channa dhal and dry roast it till golden brown
   and starts to give a nice aroma. Now add fried gram to the same and roast it
   to get the crispness for about 30 seconds. Transfer it to the blender.
@@ -58,4 +55,5 @@ recipeInstructions: >
   * Mix the tempering to the chutney in the bowl and enjoy it with Plain Idlis,
   Rava Idlis, Poori, Or Dosas.
 ---
+
 
