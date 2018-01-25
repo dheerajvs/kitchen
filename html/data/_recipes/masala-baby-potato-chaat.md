@@ -33,8 +33,6 @@ recipeIngredient: |-
   - Fresh Coriander (Optional)
    - 2 tsp, chopped
 recipeInstructions: >
-  # Procedure
-
   * Wash the potatoes and do not peel the skin. Pressure cook it for just 1
   whistle in water or just boil them in a closed vessel for 10 minutes. Make
   note, not to cook it for long as they will rupture to pieces when fried. Once
@@ -64,5 +62,6 @@ recipeInstructions: >
   * If baby potatoes are not available, you can use any sized potatoes. Just cut
   them into bite size pieces.
 ---
+
 
 
