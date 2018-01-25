@@ -57,8 +57,6 @@ recipeIngredient: |-
   - Lemon Juice
    - 1 tbsp (Optional)
 recipeInstructions: >-
-  # Preparations
-
   * In a pressure cooker, add oil and get it to heat. Keep in low flame.
 
   * Add mustard seeds and get it to crackle.
@@ -101,4 +99,5 @@ recipeInstructions: >-
 
   * Served hot with chips or onion-tomato raita.
 ---
+
 
