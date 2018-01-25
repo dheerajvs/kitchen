@@ -1,5 +1,5 @@
 ---
-title: Raw Banana Curry (Dry)
+title: Raw Banana Curry (Stir Fried - Dry)
 author: Sowmya B A
 datePublished: 2018-01-24T14:41:04.733Z
 description: Simple South Indian side dish that can be had along rasam rice or sambar rice.
@@ -40,8 +40,6 @@ recipeIngredient: |-
   - Water
    - 200ml
 recipeInstructions: >-
-  # Procedure
-
   * Cut the stem of the raw banana and boil till cooked. Poke with knife or fork
   to check if it penetrates easily, indicating that its cooked.
 
@@ -73,6 +71,7 @@ recipeInstructions: >-
   coriander and mix well.
 
   * Raw banana dry curry is ready to be served as a side dish. Can be had with
-  rasam rice or sambar rice. 
+  rasam rice or sambar rice.
 ---
+
 
