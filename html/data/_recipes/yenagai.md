@@ -49,8 +49,6 @@ recipeIngredient: |-
   - Onion 
    - 1/4 cup, chopped coarsely
 recipeInstructions: >-
-  # Preparations
-
   * Dry roast the coriander seeds, cumin, red chilies, cloves, cinnamon, sesame
   and peanuts until the peanuts start popping a little; Make sure not to burn
   any of the spices.
@@ -82,6 +80,7 @@ recipeInstructions: >-
 
   * Remove from the stove and serve hot with rice, rotis, dosas etc.
 ---
+
 
 
 
