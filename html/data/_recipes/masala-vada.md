@@ -35,8 +35,6 @@ recipeIngredient: |-
   - Frying oil
    - 1/2 litre
 recipeInstructions: >
-  # Procedure
-
   * In a blender, add the green chilly, clove, cinnamon, pepper, ginger, garlic,
   curry leaves and blend it to a smooth paste. To this add chana dal and blend
   the dal to a coarse texture. Note: Do not add water while grinding.
@@ -53,6 +51,7 @@ recipeInstructions: >
   * Masala vadas ready to be eaten as evening snacks or along with meals along
   with ketchup or mint chutney.
 ---
+
 
 
 
