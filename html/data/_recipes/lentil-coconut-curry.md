@@ -1,5 +1,5 @@
 ---
-title: Lentil Coconut Curry
+title: Lentil Coconut Curry (Dry)
 author: Rajyashri V
 datePublished: 2017-12-06T05:25:42.282Z
 description: >-
@@ -35,8 +35,6 @@ recipeIngredient: |-
   * Water
   * 2 cups
 recipeInstructions: >-
-  # Procedure
-
   * Wash toor dal thoroughly and pressure cook with water. The water should be
   just sufficient so that after cooking, the dal retains its shape and is not
   mushy. The dal should be dry after cooking.
@@ -74,5 +72,6 @@ recipeInstructions: >-
   or jeera powder or grated ginger etc. to spicy it up. I love it with green
   chillies and grated ginger.
 ---
+
 
 
