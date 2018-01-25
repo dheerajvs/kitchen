@@ -29,12 +29,11 @@ recipeIngredient: |-
   - Salt
    - As per taste
 recipeInstructions: >
-  # Procedure
-
   * In a bowl, mix all the ingredients until well blended.
 
   * The salad is ready t eat as is, or can refrigerate for about an hour before
   serving.
 ---
+
 
 
