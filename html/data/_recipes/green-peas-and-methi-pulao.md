@@ -2,7 +2,7 @@
 title: Green Peas and Methi Pulao
 author: Sowmya B A
 datePublished: 2017-05-30T06:12:24.406Z
-description: 'Simple, healthy and nutritious pulao made of methi / fenugreek leaves'
+description: 'Simple, healthy and nutritious pulao made of methi i.e fenugreek leaves'
 image: /img/Methi-Peas-Pulao1.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '20'
@@ -42,9 +42,7 @@ recipeIngredient: |+
    - As per taste
 
 recipeInstructions: >
-  # Preparations
-
-  * Heat a pan with oil / ghee.
+  * Heat a pan with oil or ghee.
 
   * Add spices shahi jeera, mace, star anise, cinnamon, clove, bay leaf. Cover
   the lid for for 10-15 seconds till all the spices leaves out fragrance.
@@ -71,5 +69,6 @@ recipeInstructions: >
 
   * Serve it hot with onion / cucumber raita.
 ---
+
 
 
