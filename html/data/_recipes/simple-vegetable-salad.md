@@ -27,8 +27,6 @@ recipeIngredient: |-
   - Olive oil
    - 1 tbsp.
 recipeInstructions: >-
-  # Procedure
-
   * Mix all the ingredients in a large bowl and chill in refrigerator for an
   hour. Nice when had after couple of hours, as all the flavors are well
   blended.
@@ -40,5 +38,6 @@ recipeInstructions: >-
 
   * The salad can be had for 2-3 days by keeping in refrigerator.
 ---
+
 
 
