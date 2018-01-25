@@ -41,9 +41,6 @@ recipeIngredient: |
   - Water
    - Based on the consistency
 recipeInstructions: >-
-  # Procedure
-
-
   * Wash potatoes thoroughly, make 2-3 slits and pressure cook it with 250ml
   water for about 5 whistles in a pressure cooker. Peel the skin of the cooked
   potatoes and mash it to the size of small lumps. Note: Do not make it powdery.
@@ -75,6 +72,7 @@ recipeInstructions: >-
   * Potato Sagu is ready to be served hot with Plaib Idlis, Rava Idlis, Poori,
   Chapati.
 ---
+
 
 
 
