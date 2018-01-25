@@ -35,8 +35,6 @@ recipeIngredient: |-
   - Salt 
    - As per taste
 recipeInstructions: >-
-  # Procedure
-
   * Cleanly wash the beetroot, peel the skin and chop it into small pieces or
   grate it.
 
@@ -63,6 +61,7 @@ recipeInstructions: >-
   * Stir fried dry beetroot curry is ready to be eaten with rice, rotis or
   Poori.
 ---
+
 
 
 
