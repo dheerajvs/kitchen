@@ -38,8 +38,6 @@ recipeIngredient: |-
   - Dry round red chilli
    - 2 nos.
 recipeInstructions: >-
-  # Preparations
-
   * Clean, wash and roughly chop doddapatre / ajwain leaves.
 
   * In a cooking pan, dry roast cumin seeds, pepper and green chilli for a
@@ -78,6 +76,7 @@ recipeInstructions: >-
 
   * Rest of the procedure remain the same.
 ---
+
 
 
 
