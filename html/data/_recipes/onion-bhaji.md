@@ -39,8 +39,6 @@ recipeIngredient: |-
   - Vegetable oil
    - 1/2 liter
 recipeInstructions: >-
-  # Preparations
-
   * In a bowl, add gram flour, rice flour, onions, green chilies, ginger,
   garlic, turmeric powder, red chili powder, jeera powder, coriander leaves,
   curry leaves,  asafoetida, Salt as required.
@@ -62,6 +60,7 @@ recipeInstructions: >-
 
   * Serve the bhaji hot with tomato ketchup or mint coriander chutney.
 ---
+
 
 
 
