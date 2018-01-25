@@ -23,8 +23,6 @@ recipeIngredient: |-
   - Ghee
    - 4 tsp
 recipeInstructions: >-
-  # Preparations
-
   * Drain out excess water from the winter melon/ash gourd and grate.
 
   * Heat 2 tsp ghee in a pan and roast the grated winter melon/ ash gourd until
@@ -45,5 +43,6 @@ recipeInstructions: >-
 
   * Roast raisins and cashews in ghee and add to the halwa.
 ---
+
 
 
