@@ -19,8 +19,6 @@ recipeIngredient: |-
   - Cardamom powder
    - 2 nos.
 recipeInstructions: >-
-  # Preparations
-
   * Mix both white and black sesame.
 
   * Roast the sesame seeds in a deep skillet until they are aromatic and start
@@ -48,5 +46,6 @@ recipeInstructions: >-
 
   * Can be stored in a box and consumed over a weeks time.
 ---
+
 
 
