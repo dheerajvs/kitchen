@@ -8,7 +8,7 @@ totalTimeHours: '0'
 totalTimeMinutes: '45'
 recipeYield: '3'
 recipeIngredient: |-
-  #### Masala Paste
+  #Masala Paste
   - Freshly grated coconut
    - 6-8 tbsp
   - Whole cashews
@@ -36,7 +36,7 @@ recipeIngredient: |-
   - Water
    - Sufficient enough to grind to a smooth paste
 
-  #### Other Ingredients
+  #Other Ingredients
 
   - Carrot
    - 1 medium to large, chopped to small cubes
@@ -64,8 +64,6 @@ recipeIngredient: |-
   - Fresh Coriander Leaves
    - Chopped finely for garnish
 recipeInstructions: >-
-  # Preparations
-
   * Take all the ingredients mentioned under "Masala Paste" in a blender and
   grind to a smooth paste by adding required amount of water.
 
@@ -93,6 +91,7 @@ recipeInstructions: >-
   coriander leaves. Serve the vegetable korma with chapatis, parathas, pooris or
   ghee rice.
 ---
+
 
 
 
