@@ -43,8 +43,6 @@ recipeIngredient: |-
   - Curry Leaves
    - 8-10 leaves
 recipeInstructions: >-
-  # Preparations
-
   * Soak tamarind in hot water and extract the thin tamarind water.
 
   * Peel the skin of garlic and small onions and make it ready.
@@ -63,4 +61,5 @@ recipeInstructions: >-
 
   * Then finally add jaggery stir well and switch off.
 ---
+
 
