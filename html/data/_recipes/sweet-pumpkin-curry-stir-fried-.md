@@ -1,5 +1,5 @@
 ---
-title: Sweet Pumpkin Curry (Stir Fried)
+title: Sweet Pumpkin Curry (Stir Fried - Dry)
 author: Sowmya B A
 datePublished: 2018-01-18T13:29:11.547Z
 description: Sweetish tasting semi gravy side dish that can be had with rice or rice roti.
@@ -31,8 +31,6 @@ recipeIngredient: |-
   - Water
    - Approximately 50ml or as per the required gravy consistency 
 recipeInstructions: >-
-  # Procedure
-
   * Heat oil in a thick bottomed cooking pan.
 
   * Add mustard and let it sputter.
@@ -56,4 +54,5 @@ recipeInstructions: >-
 
   * Ready to be served hot, as a side dish with rice or rice roti / akki rotti
 ---
+
 
