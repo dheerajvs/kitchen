@@ -16,6 +16,8 @@ recipeIngredient: |-
    - 3 cup
   - Sugar or Jaggery or Condensed Milk
    - 1 cup
+  - Cardamom (Not required if you are adding Condensed Milk)
+   - 2-3 nos., powdered
   - Water
    - 3 cups
   - Ghee
@@ -44,6 +46,9 @@ recipeInstructions: >-
   minutes. Remember to keep stirring occasional ensuring that the base does not
   tar up. Check the sweetness at this stage and adjust to suit your tastebuds.
 
+  * If you've added sugar or jaggery, then add cardamom powder to the kheer now
+  and mix well and boil for another  minute.
+
   * If you desire to add saffron you may now add the milk soaked saffron. Mix
   well and get to boil for another minute.
 
@@ -53,6 +58,7 @@ recipeInstructions: >-
   * Foxtail Millet Kheer is now ready to be served for dessert. It can be served
   warm or chilled as desired.
 ---
+
 
 
 
