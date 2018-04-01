@@ -1,5 +1,5 @@
 ---
-title: Foxtail Millet Kheer
+title: Millet Kheer
 author: Sowmya B A
 datePublished: 2018-04-01T13:17:47.246Z
 description: >-
@@ -51,6 +51,7 @@ recipeInstructions: >-
   * Foxtail Millet Kheer is now ready to be served for dessert. It can be served
   warm or chilled as desired.
 ---
+
 
 
 
