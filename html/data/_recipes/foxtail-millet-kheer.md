@@ -18,6 +18,8 @@ recipeIngredient: |-
    - 1 cup
   - Water
    - 3 cups
+  - Ghee
+   - 1 tbsp
   - Dry Fruits (Cashew, Raisins, Almond, Pistachio) 
    - 1/4 cup, finely chop pistachio, almond and cashew
   - Saffron (Optional)
@@ -45,12 +47,13 @@ recipeInstructions: >-
   * If you desire to add saffron you may now add the milk soaked saffron. Mix
   well and get to boil for another minute.
 
-  * Turn off the heat and garnish the Foxtail Millet Kheer with slivered dry
-  fruits.
+  * Turn off the heat and garnish the Millet Kheer with slivered ghee roasted
+  dry fruits.
 
   * Foxtail Millet Kheer is now ready to be served for dessert. It can be served
   warm or chilled as desired.
 ---
+
 
 
 
