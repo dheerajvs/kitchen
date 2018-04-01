@@ -13,7 +13,7 @@ recipeIngredient: |-
   - Foxtail Millet
    - 1 cup
   - Milk
-   - 2 cup
+   - 3 cup
   - Sugar or Jaggery or Condensed Milk
    - 1 cup
   - Water
@@ -47,6 +47,6 @@ recipeInstructions: >-
 
   * Foxtail Millet Kheer is now ready to be served for dessert. It can be served
   warm or chilled as desired.
-   
 ---
+
 
