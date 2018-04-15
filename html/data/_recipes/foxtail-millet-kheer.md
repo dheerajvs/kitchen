@@ -68,13 +68,13 @@ recipeInstructions: >-
   then strain it to remove any dust particles.
 
   * Boil the milk to reduce to half the quantity, make sure to keep stirring and
-  not to tarup.
+  not to tar up.
 
   * Add pressure cooked millet to the boiled milk which is now condensed and
   then cook further for another 7-8 minutes.
 
   * Later add sugar or jaggery. Quantity of sugar or jaggery can be adjusted to
-  suit your taste buds. I prefer to add 1 cup, equivalent to 50 gms.
+  suite your taste buds. I prefer to add 1 cup, equivalent to 50 gms.
 
   * Another alternative sweetener is honey, if you are using honey, never cook
   it. Add it in the end and just mix well.
@@ -88,6 +88,7 @@ recipeInstructions: >-
   whistles to pressure cook may vary. Check the softness once after pressure
   cooking.
 ---
+
 
 
 
