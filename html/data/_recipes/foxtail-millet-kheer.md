@@ -27,14 +27,12 @@ recipeIngredient: |-
   - Saffron (Optional)
    - 8-10 strands, soaked in 1 tbsp of milk
 recipeInstructions: >-
-  # Procedure
-
-  * In a pressure cooker dry roast the millet till the raw smell is removed and
+  * In a pressure cooker dry roast the millet till the raw smell disappears and
   you get a nice aroma. Do not tar or burn the millet. Set aside and let it
   cool. Once cooled, wash the millet thoroughly and soak in water for about half
   an hour.
 
-  * Pressure cook the soaked millet with the 3 times of water for about 3-4
+  * Pressure cook the soaked millet with 3 times of water for about 3-4
   whistles. Once the pressure settles, take a bite to check if the millet is
   cooked to soft.
 
@@ -56,10 +54,10 @@ recipeInstructions: >-
   dry fruits.
 
   * Millet Kheer is now ready to be served for dessert. It can be served warm or
-  chilled as desired.
+  chilled, as desired.
 
 
-  # Note:
+  # Notes
 
   ## Variation 1
 
@@ -82,7 +80,6 @@ recipeInstructions: >-
   it. Add it in the end and just mix well.
 
 
-
   ## Variation 2
 
   * You may use foxtail or barnyard millet or any other millet to make kheer.
@@ -91,6 +88,7 @@ recipeInstructions: >-
   whistles to pressure cook may vary. Check the softness once after pressure
   cooking.
 ---
+
 
 
 
