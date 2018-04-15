@@ -5,7 +5,7 @@ datePublished: 2018-04-01T13:17:47.246Z
 description: >-
   Little Millet Kheer is a delicious kheer rich in minerals, fiber and
   antioxidants.
-image: /img/Foxtail-Millet-Kheer.jpg
+image: /img/Little-Millet-Kheer.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '45'
 recipeYield: 5-6
@@ -56,6 +56,7 @@ recipeInstructions: >-
   * Millet Kheer is now ready to be served for dessert. It can be served warm or
   chilled as desired.
 ---
+
 
 
 
