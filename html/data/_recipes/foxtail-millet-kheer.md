@@ -1,32 +1,34 @@
 ---
-title: Little Millet Kheer
+title: Millet Kheer
 author: Sowmya B A
 datePublished: 2018-04-01T13:17:47.246Z
 description: >-
-  Little Millet Kheer is a delicious kheer rich in minerals, fiber and
+  Millet Kheer, delicious kheer rich in minerals, dietary fibers and
   antioxidants.
 image: /img/Little-Millet-Kheer.jpg
 totalTimeHours: '0'
-totalTimeMinutes: '45'
+totalTimeMinutes: '60'
 recipeYield: 5-6
 recipeIngredient: |-
-  - Millet (Foxtail, Barnyard, Little Millet)
+  - Little Millet
    - 1 cup, equivalent of 50 gms
   - Milk
    - 500 ml
   - Condensed Milk
-   - 100 ml
+   - 200 ml
   - Cardamom
-   - 2-3 nos., powdered
+   - 3 nos., peeled and powdered
   - Water
-   - 3 cups
+   - 3 cups for 1 cup of millet
   - Ghee
    - 1 tbsp
-  - Dry Fruits (Cashew, Raisins, Almond, Pistachio)
+  - Dry Fruits (Cashew, Almond, Pistachio)
    - 1/4 cup, finely chop pistachio, almond and cashew
   - Saffron (Optional)
    - 8-10 strands, soaked in 1 tbsp of milk
 recipeInstructions: >-
+  # Procedure
+
   * In a pressure cooker dry roast the millet till the raw smell is removed and
   you get a nice aroma. Do not tar or burn the millet. Set aside and let it
   cool. Once cooled, wash the millet thoroughly and soak in water for about half
@@ -55,7 +57,41 @@ recipeInstructions: >-
 
   * Millet Kheer is now ready to be served for dessert. It can be served warm or
   chilled as desired.
+
+
+  # Note:
+
+  ## Variation 1
+
+  * You may use sugar or jaggery or honey with additional 500ml milk, instead of
+  condensed milk. 
+
+  * If you are using jaggery, firstly powder the jaggery, dissolve in water and
+  then strain it to remove any dust particles.
+
+  * Boil the milk to reduce to half the quantity, make sure to keep stirring and
+  not to tarup.
+
+  * Add pressure cooked millet to the boiled milk which is now condensed and
+  then cook further for another 7-8 minutes.
+
+  * Later add sugar or jaggery. Quantity of sugar or jaggery can be adjusted to
+  suit your taste buds. I prefer to add 1 cup, equivalent to 50 gms.
+
+  * Another alternative sweetener is honey, if you are using honey, never cook
+  it. Add it in the end and just mix well.
+
+
+
+  ## Variation 2
+
+  * You may use foxtail or barnyard millet or any other millet to make kheer.
+
+  * If you are using other millets, the cooking time, water and number of
+  whistles to pressure cook may vary. Check the softness once after pressure
+  cooking.
 ---
+
 
 
 
