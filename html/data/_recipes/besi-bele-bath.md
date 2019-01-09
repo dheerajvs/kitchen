@@ -1,5 +1,5 @@
 ---
-title: Besi Bele Bath
+title: Bisi Bele Bath
 author: Sowmya B A
 datePublished: 2018-01-02T06:03:35.361Z
 description: >-
@@ -62,7 +62,7 @@ recipeIngredient: |-
   - Fresh Coriander leaves
    - 1 tbsp, finely chopped
 recipeInstructions: >-
-  * For Besi Bele Bath Powder: You can use ready MTR or Maiya's Besi Bele Bath
+  * For Bisi Bele Bath Powder: You can use ready MTR or Maiya's Bisi Bele Bath
   Powder or Dry roast masala items one after the other in a pan Cinnamon, Clove,
   Channa Dal, Urad Dal, Feenugreek, Coriander Seeds, Red Chili, Cumin Seeds,
   Marathi Moggu / Kapok Buds, Dry Coconut. Let it cool. Grind it to a smooth
@@ -71,27 +71,29 @@ recipeInstructions: >-
   * Pressure cook thoor dal for 3-4 whistles. Once the pressure settles remove
   the lid and mash the dhal.
 
-  * Add soaked rice, chopped shallots, chopped tomato, chopped vegetables, besi
+  * Add soaked rice, chopped shallots, chopped tomato, chopped vegetables, bisi
   bele bath powder, turmeric powder, tamarind, salt as required to the pressure
   cooker along with 3 cups of water. Pressure cook for another 2 whistles. Once
-  the pressure settles, remove the lid and mix well. Besi bele bath is almost
+  the pressure settles, remove the lid and mix well. Bisi bele bath is almost
   ready.
 
   * For Tempering: Heat ghee in a tempering pan, fry cut cashew nuts to light
   golden color, add mustard seeds and let it sputter, add asafoetida, add curry
   leaves and fry to crisp, add red chilies and turn of the heat.
 
-  * Add the tempering to the besi bele bath in the cooker and mix well. Garnish
+  * Add the tempering to the bisi bele bath in the cooker and mix well. Garnish
   with freshly chopped coriander.
 
-  * Besi Bele Bath is ready to be eaten any time of the day, either for
+  * Bisi Bele Bath is ready to be eaten any time of the day, either for
   breakfast, lunch or dinner.
 
 
   # Tips
 
+
   * Can be relished with Khara Boondhi or Onion-Cucumber-Tomato Raitha
 ---
+
 
 
 
