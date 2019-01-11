@@ -10,6 +10,14 @@ recipeYield: 3-4
 recipeIngredient: |
   - Mustard leaves (sarson)
    - 1 big bunch
+  - Vegetable oil
+   - 1 tbsp
+  - Bay leaf
+   - 2 nos.
+  - Mustard seeds
+   - 1 tsp
+  - Cumin seeds
+   - 1 tsp
   - Onion
    - 2 medium sized, finely chopped
   - Tomatoes
@@ -26,12 +34,6 @@ recipeIngredient: |
    - 1 tsp
   - Garam masala
    - 1/4 tsp
-  - Mustard seeds
-   - 1 tsp
-  - Cumin seeds
-   - 1 tsp
-  - Vegetable oil
-   - 1 tbsp
   - Unsalted butter
    - 1 tbsp
   - Water
@@ -47,8 +49,8 @@ recipeInstructions: >-
   Once done, let it cool, filter out the water and keep it aside for later use.
   Blend the sarson to a smooth paste.
 
-  * In a cooking pan, add oil, once the oil is hot enough, add mustard and let
-  it crackle.
+  * In a cooking pan, add oil, once the oil is hot enough, add bay leaves
+  followed by mustard and let the mustard crackle.
 
   * Add cumin seeds, followed by onion. Keep sauteing till the onion turns
   golden brown. 
@@ -71,5 +73,6 @@ recipeInstructions: >-
   * Sarson Ka Saag is now ready to be served with Makki ki Roti or normal Rotis,
   Chapathi as desired.
 ---
+
 
 
