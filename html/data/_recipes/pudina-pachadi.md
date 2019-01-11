@@ -2,7 +2,7 @@
 title: Pudina Pachadi
 author: Sowmya B A
 datePublished: 2019-01-11T16:30:14.337Z
-description: 'Mouth smacking mint pachadi / chutney very popular in south of India. '
+description: 'Mouth smacking mint chutney / mint pachadi very popular in south of India. '
 image: /img/Pudina-Pachadi.jpg
 totalTimeHours: '0'
 totalTimeMinutes: '30'
@@ -58,6 +58,7 @@ recipeInstructions: >
   and mix well.
 
   - Yummy mouth smacking pudina pachadi is ready to be served. It can be best
-  enjoyed with hot rice and ghee.  
+  enjoyed with hot rice and ghee.
 ---
+
 
