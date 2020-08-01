@@ -109,7 +109,6 @@ recipeInstructions: >-
   * Finally garnish by sprinkling some finely chopped spring onion.
 
   * You are ready to serve.
-
-     
 ---
+
 
