@@ -34,9 +34,9 @@ recipeInstructions: >-
   if you wish to add. Now remove the cashew, raisins and cloves from the pan and
   keep aside.
 
-  * Add the remaining ghee to the same pan, once the ghee is hot, add the rava
-  and roast it by stirring continuously till you get a nice aroma. This will
-  take around 6-7 minutes.
+  * Add the remaining ghee to the same pan, once the ghee is hot, add the
+  coconut followed by rava and roast it by stirring continuously till you get a
+  nice aroma. This will take around 6-7 minutes.
 
   * Once roasted, set aside and let it cool down a bit.
 
@@ -57,4 +57,5 @@ recipeInstructions: >-
 
   * Repeat the process till the mixture is over. I was able to make 20 laddus.
 ---
+
 
