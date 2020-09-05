@@ -61,6 +61,7 @@ recipeInstructions: >
   * Note: You can use jaggery or honey instead of sugar. Jaggery needs to be
   melted to a syrup by mixing it in water. Pasta doesn't cook any further once
   you've added jaggery. Ensure your pasta is fully cooked before adding jaggery.
-  Also its not safe to cook or boil honey, once added.  
+  Also its not safe to cook or boil honey, once added.
 ---
+
 
